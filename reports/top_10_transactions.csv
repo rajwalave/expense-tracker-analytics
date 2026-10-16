@@ -1,0 +1,11 @@
+transaction_id,transaction_date,category,merchant,description,payment_method,amount_inr,account_type,month,year,month_number,day_name,is_weekend
+TXN01070,2025-01-07,Housing,Maintenance,Maintenance - housing purchase,UPI,18000.0,Cash Wallet,2025-01,2025,1,Tuesday,False
+TXN00787,2025-01-21,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,18000.0,Bank Account,2025-01,2025,1,Tuesday,False
+TXN01270,2025-02-01,Housing,Maintenance,Maintenance - housing purchase,Credit Card,18000.0,Credit Card,2025-02,2025,2,Saturday,True
+TXN00588,2025-03-05,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,18000.0,Bank Account,2025-03,2025,3,Wednesday,False
+TXN01776,2025-03-25,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,18000.0,Credit Card,2025-03,2025,3,Tuesday,False
+TXN00178,2025-04-13,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,18000.0,Bank Account,2025-04,2025,4,Sunday,True
+TXN01770,2025-05-06,Housing,Maintenance,Maintenance - housing purchase,Debit Card,18000.0,Bank Account,2025-05,2025,5,Tuesday,False
+TXN01640,2025-06-24,Housing,Maintenance,Maintenance - housing purchase,UPI,18000.0,Bank Account,2025-06,2025,6,Tuesday,False
+TXN00096,2025-07-03,Housing,Home Supplies,Home Supplies - housing purchase,Cash,18000.0,Bank Account,2025-07,2025,7,Thursday,False
+TXN01095,2025-07-29,Housing,Home Supplies,Home Supplies - housing purchase,Net Banking,18000.0,Bank Account,2025-07,2025,7,Tuesday,False

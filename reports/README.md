@@ -1,0 +1,1 @@
+Generated outputs from scripts/analyze_data.py: monthly spend, category summary, top transactions, and executive summary.\n

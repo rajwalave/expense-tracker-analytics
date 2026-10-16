@@ -1,0 +1,1 @@
+Reserved for a future optional forecasting model. No model is included because the current project focuses on descriptive analytics and does not define a forecasting target.\n

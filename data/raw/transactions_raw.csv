@@ -1,0 +1,1801 @@
+transaction_id,transaction_date,category,merchant,description,payment_method,amount_inr,account_type
+TXN01488,2025-01-01,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,847.32,Bank Account
+TXN01409,2025-01-01,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,3429.03,Credit Card
+TXN01482,2025-01-02,Dining,Cafe Corner,Cafe Corner - dining purchase,Net Banking,867.65,Bank Account
+TXN01294,2025-01-03,Groceries,Green Basket,Green Basket - groceries purchase,UPI,213.17,Credit Card
+TXN01622,2025-01-03,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1781.86,Bank Account
+TXN01739,2025-01-03,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,896.46,Bank Account
+TXN00901,2025-01-03,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,771.97,Bank Account
+TXN01550,2025-01-04,Utilities,Internet Provider,Internet Provider - utilities purchase,Cash,334.16,Bank Account
+TXN01237,2025-01-04,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,322.35,Bank Account
+TXN00773,2025-01-04,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,4836.63,Cash Wallet
+TXN00381,2025-01-04,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,224.97,Credit Card
+TXN00845,2025-01-04,Shopping,Department Store,Department Store - shopping purchase,UPI,6500.0,Bank Account
+TXN00846,2025-01-04,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,4157.3,Credit Card
+TXN00104,2025-01-05,Groceries,Daily Needs,Daily Needs - groceries purchase,Cash,454.86,Bank Account
+TXN00575,2025-01-05,Housing,Maintenance,Maintenance - housing purchase,UPI,9066.73,Cash Wallet
+TXN00465,2025-01-05,Housing,Maintenance,Maintenance - housing purchase,Cash,14030.2,Bank Account
+TXN01190,2025-01-05,Housing,Home Supplies,Home Supplies - housing purchase,UPI,10465.67,Cash Wallet
+TXN01532,2025-01-06,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,4376.01,Credit Card
+TXN01279,2025-01-06,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,893.27,Credit Card
+TXN00707,2025-01-06,Travel,Train Ticket,Train Ticket - travel purchase,UPI,7942.73,Credit Card
+TXN01175,2025-01-06,Transport,Fuel Station,Fuel Station - transport purchase,Cash,116.66,Credit Card
+TXN00303,2025-01-07,Entertainment,Cinema,Cinema - entertainment purchase,Debit Card,963.21,Credit Card
+TXN01070,2025-01-07,Housing,Maintenance,Maintenance - housing purchase,UPI,18000.0,Cash Wallet
+TXN01763,2025-01-07,Transport,Ride App,Ride App - transport purchase,UPI,475.85,Bank Account
+TXN00790,2025-01-08,Transport,Metro,Metro - transport purchase,UPI,229.46,Credit Card
+TXN00801,2025-01-08,Education,Training Centre,Training Centre - education purchase,Cash,3615.97,Credit Card
+TXN01682,2025-01-08,Entertainment,Game Store,Game Store - entertainment purchase,Net Banking,930.05,Credit Card
+TXN00410,2025-01-09,Education,Online Course,Online Course - education purchase,Debit Card,3339.71,Bank Account
+TXN01121,2025-01-09,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,1227.56,Bank Account
+TXN00839,2025-01-10,Utilities,Water Bill,Water Bill - utilities purchase,Credit Card,966.68,Bank Account
+TXN01038,2025-01-10,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,904.54,Bank Account
+TXN00889,2025-01-11,Entertainment,Game Store,Game Store - entertainment purchase,Cash,1635.03,Cash Wallet
+TXN01624,2025-01-11,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1126.97,Bank Account
+TXN00478,2025-01-12,Entertainment,Concert,Concert - entertainment purchase,UPI,549.72,Bank Account
+TXN01366,2025-01-12,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,2200.0,Bank Account
+TXN01652,2025-01-12,Housing,Home Supplies,Home Supplies - housing purchase,Debit Card,6197.17,Bank Account
+TXN00415,2025-01-12,Groceries,Green Basket,Green Basket - groceries purchase,UPI,302.94,Bank Account
+TXN01594,2025-01-13,Education,Book Store,Book Store - education purchase,Debit Card,4153.92,Cash Wallet
+TXN00233,2025-01-13,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,1013.35,Bank Account
+TXN00540,2025-01-14,Travel,Train Ticket,Train Ticket - travel purchase,Cash,10480.97,Bank Account
+TXN00300,2025-01-14,Shopping,Electronics Store,,UPI,4604.78,Bank Account
+TXN01529,2025-01-14,Shopping,Department Store,Department Store - shopping purchase,UPI,4219.28,Credit Card
+TXN01167,2025-01-14,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,9211.0,Bank Account
+TXN00170,2025-01-15,Transport,Ride App,Ride App - transport purchase,Debit Card,244.92,Bank Account
+TXN01744,2025-01-15,Entertainment,Game Store,Game Store - entertainment purchase,UPI,1452.93,Credit Card
+TXN00369,2025-01-15,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,13464.8,Bank Account
+TXN00272,2025-01-15,Shopping,Online Store,Online Store - shopping purchase,UPI,4124.7,Credit Card
+TXN00821,2025-01-16,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Credit Card,737.73,Bank Account
+TXN01399,2025-01-16,Groceries,Green Basket,Green Basket - groceries purchase,Credit Card,1835.17,Credit Card
+TXN01783,2025-01-16,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,2200.0,Credit Card
+TXN01180,2025-01-16,Groceries,Green Basket,Green Basket - groceries purchase,Cash,1300.01,Credit Card
+TXN00454,2025-01-16,Dining,Family Restaurant,Family Restaurant - dining purchase,Net Banking,405.27,Cash Wallet
+TXN00429,2025-01-17,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,570.0,Bank Account
+TXN01300,2025-01-19,Shopping,Department Store,Department Store - shopping purchase,UPI,6500.0,Bank Account
+TXN00830,2025-01-19,Transport,Ride App,Ride App - transport purchase,UPI,223.23,Credit Card
+TXN01493,2025-01-19,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,361.1,Bank Account
+TXN01536,2025-01-20,Travel,Train Ticket,Train Ticket - travel purchase,UPI,9888.44,Cash Wallet
+TXN00138,2025-01-20,Transport,Bus Pass,Bus Pass - transport purchase,UPI,51.42,Bank Account
+TXN01590,2025-01-20,Utilities,Electricity Board,Electricity Board - utilities purchase,Cash,3500.0,Credit Card
+TXN00787,2025-01-21,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,18000.0,Bank Account
+TXN00385,2025-01-21,Education,Book Store,Book Store - education purchase,UPI,4299.3,Bank Account
+TXN00663,2025-01-23,Entertainment,Concert,Concert - entertainment purchase,UPI,948.86,Bank Account
+TXN01683,2025-01-23,Groceries,Local Market,Local Market - groceries purchase,Net Banking,1141.55,Bank Account
+TXN00147,2025-01-23,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,1093.12,Bank Account
+TXN01446,2025-01-23,Groceries,Green Basket,Green Basket - groceries purchase,UPI,548.63,Bank Account
+TXN01266,2025-01-24,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,198.43,Bank Account
+TXN00844,2025-01-24,Travel,Hotel,Hotel - travel purchase,Debit Card,15000.0,Cash Wallet
+TXN00328,2025-01-24,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,13078.52,Bank Account
+TXN00117,2025-01-24,Shopping,Department Store,Department Store - shopping purchase,Credit Card,1677.76,Bank Account
+TXN00970,2025-01-24,Entertainment,Game Store,Game Store - entertainment purchase,UPI,432.59,Bank Account
+TXN00870,2025-01-26,Entertainment,Game Store,Game Store - entertainment purchase,UPI,1102.15,Bank Account
+TXN00250,2025-01-27,Entertainment,Game Store,Game Store - entertainment purchase,UPI,1800.0,Bank Account
+TXN01240,2025-01-27,Entertainment,Concert,Concert - entertainment purchase,Debit Card,1800.0,Bank Account
+TXN01452,2025-01-27,Entertainment,Cinema,Cinema - entertainment purchase,UPI,1024.94,Bank Account
+TXN01019,2025-01-27,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Cash,1483.94,Bank Account
+TXN01099,2025-01-27,Entertainment,Game Store,Game Store - entertainment purchase,Credit Card,315.12,Cash Wallet
+TXN00817,2025-01-28,Transport,Ride App,Ride App - transport purchase,Debit Card,647.16,Bank Account
+TXN00902,2025-01-28,Utilities,Electricity Board,Electricity Board - utilities purchase,Cash,739.37,Bank Account
+TXN00056,2025-01-28,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,1299.05,Bank Account
+TXN00562,2025-01-28,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1521.27,Cash Wallet
+TXN00397,2025-01-29,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,376.75,Bank Account
+TXN00811,2025-01-29,Health,Pharmacy,Pharmacy - health purchase,UPI,1285.71,Credit Card
+TXN01110,2025-01-29,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Net Banking,6500.0,Bank Account
+TXN00352,2025-01-29,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1611.74,Bank Account
+TXN01781,2025-01-30,Health,Clinic,Clinic - health purchase,Debit Card,3776.5,Bank Account
+TXN01518,2025-01-31,Housing,Maintenance,Maintenance - housing purchase,Cash,11881.69,Bank Account
+TXN01526,2025-01-31,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,2128.29,Cash Wallet
+TXN01463,2025-01-31,Housing,Home Supplies,Home Supplies - housing purchase,Credit Card,11545.33,Credit Card
+TXN00699,2025-02-01,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,999.74,Bank Account
+TXN01270,2025-02-01,Housing,Maintenance,Maintenance - housing purchase,Credit Card,18000.0,Credit Card
+TXN01286,2025-02-01,Groceries,Green Basket,Green Basket - groceries purchase,UPI,836.21,Bank Account
+TXN00574,2025-02-01,Housing,Maintenance,Maintenance - housing purchase,Credit Card,8731.61,Bank Account
+TXN00848,2025-02-02,Utilities,Water Bill,Water Bill - utilities purchase,UPI,1618.64,Bank Account
+TXN01464,2025-02-02,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,546.55,Bank Account
+TXN01453,2025-02-02,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,371.33,Bank Account
+TXN01642,2025-02-02,Housing,Maintenance,Maintenance - housing purchase,UPI,12940.91,Credit Card
+TXN01653,2025-02-03,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,1141.68,Bank Account
+TXN00887,2025-02-03,Transport,Metro,Metro - transport purchase,UPI,852.09,Bank Account
+TXN00584,2025-02-03,Dining,Family Restaurant,Family Restaurant - dining purchase,Net Banking,544.12,Bank Account
+TXN00898,2025-02-04,Dining,Food Street,Food Street - dining purchase,Debit Card,1062.43,Bank Account
+TXN00546,2025-02-04,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,1232.32,Cash Wallet
+TXN01026,2025-02-05,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,618.36,Bank Account
+TXN00542,2025-02-05,Groceries,Green Basket,Green Basket - groceries purchase,UPI,2200.0,Bank Account
+TXN01021,2025-02-05,Housing,Maintenance,Maintenance - housing purchase,Cash,11681.66,Bank Account
+TXN01267,2025-02-05,Entertainment,Cinema,Cinema - entertainment purchase,Cash,1513.06,Credit Card
+TXN00858,2025-02-06,Travel,Hotel,Hotel - travel purchase,Debit Card,4977.97,Credit Card
+TXN00150,2025-02-07,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,407.97,Bank Account
+TXN01136,2025-02-07,Health,Clinic,Clinic - health purchase,UPI,3633.9,Bank Account
+TXN01615,2025-02-08,Dining,Quick Bites,Quick Bites - dining purchase,Credit Card,1304.9,Bank Account
+TXN01351,2025-02-08,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,3087.11,Bank Account
+TXN01411,2025-02-08,Travel,Hotel,Hotel - travel purchase,UPI,15000.0,Bank Account
+TXN01470,2025-02-08,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,14852.15,Bank Account
+TXN00619,2025-02-09,Groceries,Daily Needs,Daily Needs - groceries purchase,Net Banking,2200.0,Bank Account
+TXN00036,2025-02-10,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,613.79,Bank Account
+TXN01456,2025-02-11,Health,Clinic,Clinic - health purchase,Debit Card,3243.38,Cash Wallet
+TXN00279,2025-02-11,Dining,Food Street,Food Street - dining purchase,UPI,579.04,Bank Account
+TXN01362,2025-02-12,Travel,Flight Booking,Flight Booking - travel purchase,UPI,6518.02,Bank Account
+TXN01035,2025-02-12,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,583.41,Bank Account
+TXN00518,2025-02-12,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,2328.73,Bank Account
+TXN00387,2025-02-13,Transport,Metro,Metro - transport purchase,UPI,53.61,Credit Card
+TXN01769,2025-02-13,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Debit Card,1285.83,Bank Account
+TXN00045,2025-02-13,Housing,Home Supplies,Home Supplies - housing purchase,Cash,9799.95,Cash Wallet
+TXN00899,2025-02-14,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Net Banking,806.04,Bank Account
+TXN01022,2025-02-15,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,828.48,Bank Account
+TXN00659,2025-02-16,Shopping,Online Store,Online Store - shopping purchase,UPI,2368.12,Bank Account
+TXN01253,2025-02-17,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Credit Card,1891.46,Credit Card
+TXN01215,2025-02-17,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,801.27,Bank Account
+TXN00069,2025-02-18,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Cash,3500.0,Bank Account
+TXN01055,2025-02-18,Entertainment,Game Store,Game Store - entertainment purchase,UPI,760.17,Cash Wallet
+TXN01027,2025-02-19,Transport,Ride App,Ride App - transport purchase,Debit Card,135.47,Bank Account
+TXN01588,2025-02-19,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Credit Card,1000.69,Credit Card
+TXN00217,2025-02-20,Groceries,Local Market,Local Market - groceries purchase,UPI,1600.9,Bank Account
+TXN01571,2025-02-20,Housing,Monthly Rent,Monthly Rent - housing purchase,Cash,10247.7,Bank Account
+TXN00127,2025-02-20,Education,Book Store,Book Store - education purchase,UPI,4110.07,Credit Card
+TXN00439,2025-02-21,Entertainment,Game Store,Game Store - entertainment purchase,UPI,821.87,Bank Account
+TXN01096,2025-02-21,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,4652.42,Bank Account
+TXN00280,2025-02-22,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,506.13,Cash Wallet
+TXN01361,2025-02-22,Shopping,Online Store,Online Store - shopping purchase,UPI,4972.78,Bank Account
+TXN01122,2025-02-23,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1763.8,Bank Account
+TXN00678,2025-02-23,Entertainment,Cinema,Cinema - entertainment purchase,Credit Card,972.43,Credit Card
+TXN00431,2025-02-23,Health,Clinic,Clinic - health purchase,Cash,3312.69,Bank Account
+TXN00246,2025-02-23,Transport,Fuel Station,Fuel Station - transport purchase,UPI,233.23,Credit Card
+TXN00881,2025-02-24,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,929.74,Credit Card
+TXN01256,2025-02-24,Entertainment,Concert,Concert - entertainment purchase,Debit Card,1800.0,Bank Account
+TXN00007,2025-02-24,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,5787.02,Credit Card
+TXN01328,2025-02-24,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Cash,1753.97,Bank Account
+TXN00196,2025-02-25,Transport,Ride App,Ride App - transport purchase,UPI,573.35,Credit Card
+TXN00753,2025-02-25,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,1400.0,Bank Account
+TXN00728,2025-02-25,Dining,Food Street,Food Street - dining purchase,UPI,400.72,Bank Account
+TXN01721,2025-02-26,Entertainment,Cinema,Cinema - entertainment purchase,UPI,1800.0,Credit Card
+TXN00001,2025-02-26,Housing,Home Supplies,Home Supplies - housing purchase,UPI,8396.78,Bank Account
+TXN01543,2025-02-26,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,655.21,Bank Account
+TXN01531,2025-02-27,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,679.89,Bank Account
+TXN00826,2025-02-27,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,1033.97,Bank Account
+TXN00695,2025-02-27,Entertainment,Concert,Concert - entertainment purchase,Debit Card,1800.0,Bank Account
+TXN00133,2025-02-27,Housing,Maintenance,Maintenance - housing purchase,UPI,8542.87,Bank Account
+TXN00172,2025-02-27,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,1393.66,Cash Wallet
+TXN00359,2025-02-28,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,17461.44,Bank Account
+TXN00033,2025-02-28,Transport,Bus Pass,Bus Pass - transport purchase,UPI,828.49,Credit Card
+TXN01633,2025-02-28,Shopping,Online Store,Online Store - shopping purchase,Debit Card,4153.98,Cash Wallet
+TXN00910,2025-02-28,Groceries,Local Market,Local Market - groceries purchase,UPI,948.33,Bank Account
+TXN00951,2025-03-01,Dining,Quick Bites,Quick Bites - dining purchase,UPI,776.43,Bank Account
+TXN00581,2025-03-01,Transport,Bus Pass,Bus Pass - transport purchase,UPI,34.76,Credit Card
+TXN00376,2025-03-02,Transport,Metro,Metro - transport purchase,UPI,164.43,Bank Account
+TXN00674,2025-03-02,Entertainment,Concert,Concert - entertainment purchase,Debit Card,1190.23,Bank Account
+TXN00243,2025-03-02,Entertainment,Game Store,Game Store - entertainment purchase,UPI,1158.28,Bank Account
+TXN00010,2025-03-02,Dining,Family Restaurant,Family Restaurant - dining purchase,Net Banking,357.86,Bank Account
+TXN00977,2025-03-02,Dining,Quick Bites,Quick Bites - dining purchase,Credit Card,588.77,Credit Card
+TXN00700,2025-03-02,Dining,Quick Bites,Quick Bites - dining purchase,UPI,594.2,Bank Account
+TXN01690,2025-03-02,Transport,Metro,Metro - transport purchase,Cash,755.69,Credit Card
+TXN00791,2025-03-03,Health,Clinic,Clinic - health purchase,UPI,2840.5,Credit Card
+TXN00218,2025-03-03,Health,Pharmacy,Pharmacy - health purchase,Net Banking,1097.16,Bank Account
+TXN00087,2025-03-04,Transport,Bus Pass,Bus Pass - transport purchase,Credit Card,297.66,Cash Wallet
+TXN01788,2025-03-05,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,1750.91,Cash Wallet
+TXN01738,2025-03-05,Dining,Quick Bites,Quick Bites - dining purchase,UPI,555.01,Bank Account
+TXN00891,2025-03-05,Health,Pharmacy,Pharmacy - health purchase,UPI,963.42,Credit Card
+TXN00588,2025-03-05,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,18000.0,Bank Account
+TXN00580,2025-03-06,Housing,Home Supplies,Home Supplies - housing purchase,Credit Card,11802.96,Bank Account
+TXN01289,2025-03-07,Dining,Food Street,Food Street - dining purchase,Cash,1017.37,Bank Account
+TXN01450,2025-03-07,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,586.44,Bank Account
+TXN00258,2025-03-07,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,561.27,Credit Card
+TXN01436,2025-03-07,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,1174.11,Bank Account
+TXN01359,2025-03-07,Groceries,Local Market,Local Market - groceries purchase,Cash,658.63,Credit Card
+TXN01730,2025-03-08,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,869.32,Credit Card
+TXN01166,2025-03-08,Education,Online Course,Online Course - education purchase,UPI,2336.16,Bank Account
+TXN00171,2025-03-09,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,767.88,Credit Card
+TXN00818,2025-03-09,Utilities,Internet Provider,,Credit Card,1229.33,Bank Account
+TXN00460,2025-03-09,Groceries,Local Market,Local Market - groceries purchase,UPI,1551.33,Bank Account
+TXN00516,2025-03-09,Health,Pharmacy,Pharmacy - health purchase,Debit Card,382.08,Credit Card
+TXN00322,2025-03-10,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,1033.63,Bank Account
+TXN01227,2025-03-10,Transport,Bus Pass,Bus Pass - transport purchase,UPI,116.95,Bank Account
+TXN00583,2025-03-10,Utilities,Internet Provider,Internet Provider - utilities purchase,Credit Card,2053.41,Bank Account
+TXN00310,2025-03-11,Transport,Bus Pass,Bus Pass - transport purchase,UPI,900.0,Bank Account
+TXN01272,2025-03-11,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,216.3,Bank Account
+TXN00480,2025-03-11,Transport,Fuel Station,Fuel Station - transport purchase,UPI,900.0,Bank Account
+TXN01538,2025-03-12,Shopping,Online Store,Online Store - shopping purchase,Debit Card,5417.08,Credit Card
+TXN00808,2025-03-12,Transport,Ride App,Ride App - transport purchase,Debit Card,900.0,Bank Account
+TXN01489,2025-03-12,Shopping,Online Store,Online Store - shopping purchase,UPI,3309.18,Credit Card
+TXN01484,2025-03-13,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1189.53,Credit Card
+TXN01466,2025-03-13,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,3824.81,Credit Card
+TXN01579,2025-03-14,Transport,Ride App,Ride App - transport purchase,Cash,222.18,Bank Account
+TXN00501,2025-03-14,Housing,Maintenance,Maintenance - housing purchase,UPI,8213.81,Bank Account
+TXN00873,2025-03-14,Shopping,Department Store,Department Store - shopping purchase,UPI,702.69,Bank Account
+TXN01216,2025-03-14,Education,Training Centre,Training Centre - education purchase,Debit Card,589.92,Bank Account
+TXN01321,2025-03-15,Transport,Metro,Metro - transport purchase,Cash,234.87,Bank Account
+TXN00120,2025-03-15,Housing,Home Supplies,Home Supplies - housing purchase,Credit Card,8542.57,Cash Wallet
+TXN00538,2025-03-15,Housing,Maintenance,Maintenance - housing purchase,Debit Card,12510.63,Credit Card
+TXN00365,2025-03-15,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,1929.31,Bank Account
+TXN01020,2025-03-15,Travel,Hotel,Hotel - travel purchase,UPI,9649.12,Cash Wallet
+TXN00726,2025-03-16,Shopping,Department Store,Department Store - shopping purchase,Net Banking,3797.19,Bank Account
+TXN00497,2025-03-17,Utilities,Water Bill,Water Bill - utilities purchase,UPI,629.38,Credit Card
+TXN00778,2025-03-17,Housing,Maintenance,Maintenance - housing purchase,UPI,5688.25,Bank Account
+TXN00198,2025-03-17,Health,Clinic,Clinic - health purchase,Net Banking,3011.93,Bank Account
+TXN00313,2025-03-17,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,3500.0,Credit Card
+TXN00863,2025-03-18,Dining,Food Street,Food Street - dining purchase,UPI,604.72,Bank Account
+TXN00946,2025-03-18,Utilities,Water Bill,Water Bill - utilities purchase,Cash,1913.67,Credit Card
+TXN01343,2025-03-18,Transport,Fuel Station,Fuel Station - transport purchase,UPI,70.74,Bank Account
+TXN01157,2025-03-18,Travel,Hotel,Hotel - travel purchase,UPI,6660.07,Bank Account
+TXN00724,2025-03-18,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1403.27,Credit Card
+TXN01050,2025-03-18,Education,Book Store,Book Store - education purchase,Debit Card,7000.0,Bank Account
+TXN00418,2025-03-19,Groceries,Local Market,Local Market - groceries purchase,Debit Card,188.21,Bank Account
+TXN00784,2025-03-19,Dining,Food Street,Food Street - dining purchase,UPI,606.29,Bank Account
+TXN01619,2025-03-19,Utilities,Water Bill,Water Bill - utilities purchase,UPI,1309.0,Bank Account
+TXN00386,2025-03-20,Education,Book Store,Book Store - education purchase,Debit Card,947.16,Cash Wallet
+TXN00783,2025-03-20,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,3471.82,Bank Account
+TXN00436,2025-03-20,Entertainment,Cinema,Cinema - entertainment purchase,UPI,528.54,Cash Wallet
+TXN01238,2025-03-21,Health,Pharmacy,Pharmacy - health purchase,UPI,1883.12,Bank Account
+TXN01605,2025-03-21,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,455.29,Bank Account
+TXN00874,2025-03-21,Entertainment,Game Store,Game Store - entertainment purchase,Cash,917.76,Credit Card
+TXN00157,2025-03-22,Education,Book Store,Book Store - education purchase,UPI,2478.21,Credit Card
+TXN01610,2025-03-22,Shopping,Online Store,Online Store - shopping purchase,Debit Card,5405.39,Cash Wallet
+TXN01630,2025-03-22,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,5060.1,Credit Card
+TXN01005,2025-03-23,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,1568.37,Credit Card
+TXN00018,2025-03-23,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1346.61,Bank Account
+TXN00221,2025-03-23,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Cash,1154.99,Bank Account
+TXN00759,2025-03-23,Transport,Ride App,Ride App - transport purchase,Credit Card,127.67,Bank Account
+TXN00705,2025-03-24,Dining,Quick Bites,Quick Bites - dining purchase,UPI,1090.8,Bank Account
+TXN00945,2025-03-24,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,2200.0,Bank Account
+TXN00074,2025-03-24,Education,Book Store,Book Store - education purchase,UPI,3323.34,Bank Account
+TXN00434,2025-03-25,Travel,Train Ticket,Train Ticket - travel purchase,Debit Card,9577.25,Bank Account
+TXN01776,2025-03-25,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,18000.0,Credit Card
+TXN00443,2025-03-26,Housing,Monthly Rent,Monthly Rent - housing purchase,Cash,12208.65,Bank Account
+TXN01645,2025-03-26,Housing,Home Supplies,Home Supplies - housing purchase,UPI,9530.05,Credit Card
+TXN00414,2025-03-26,Groceries,Local Market,Local Market - groceries purchase,UPI,2200.0,Bank Account
+TXN00670,2025-03-26,Housing,Monthly Rent,Monthly Rent - housing purchase,Credit Card,7025.11,Bank Account
+TXN00604,2025-03-27,Transport,Ride App,Ride App - transport purchase,Credit Card,580.39,Bank Account
+TXN00948,2025-03-27,Shopping,Online Store,Online Store - shopping purchase,UPI,3626.91,Bank Account
+TXN01358,2025-03-27,Health,Pharmacy,Pharmacy - health purchase,UPI,3046.01,Bank Account
+TXN00682,2025-03-29,Transport,Bus Pass,Bus Pass - transport purchase,UPI,500.27,Credit Card
+TXN00823,2025-03-29,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,2567.47,Cash Wallet
+TXN01342,2025-03-29,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1589.89,Cash Wallet
+TXN01528,2025-03-30,Shopping,Online Store,Online Store - shopping purchase,Cash,6500.0,Bank Account
+TXN00721,2025-03-30,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,498.7,Bank Account
+TXN00241,2025-03-31,Transport,Metro,Metro - transport purchase,Credit Card,444.26,Bank Account
+TXN01445,2025-03-31,Shopping,Department Store,Department Store - shopping purchase,UPI,4429.42,Bank Account
+TXN00462,2025-03-31,Transport,Metro,Metro - transport purchase,UPI,900.0,Bank Account
+TXN00306,2025-03-31,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Net Banking,1112.68,Bank Account
+TXN00118,2025-03-31,Entertainment,Cinema,Cinema - entertainment purchase,UPI,203.33,Bank Account
+TXN00620,2025-03-31,Dining,Quick Bites,Quick Bites - dining purchase,UPI,1330.17,Bank Account
+TXN00769,2025-03-31,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,2200.0,Bank Account
+TXN00100,2025-03-31,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,757.36,Bank Account
+TXN01187,2025-04-01,Transport,Bus Pass,Bus Pass - transport purchase,Credit Card,206.37,Cash Wallet
+TXN01090,2025-04-01,Groceries,Green Basket,Green Basket - groceries purchase,UPI,971.8,Bank Account
+TXN00329,2025-04-01,Education,Training Centre,Training Centre - education purchase,UPI,4648.91,Credit Card
+TXN00834,2025-04-02,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,801.7,Bank Account
+TXN01063,2025-04-02,Utilities,Electricity Board,Electricity Board - utilities purchase,Debit Card,791.43,Credit Card
+TXN00408,2025-04-02,Shopping,Electronics Store,Electronics Store - shopping purchase,Cash,3324.64,Bank Account
+TXN00528,2025-04-02,Groceries,Local Market,Local Market - groceries purchase,UPI,877.76,Credit Card
+TXN01612,2025-04-02,Transport,Fuel Station,Fuel Station - transport purchase,Cash,201.79,Credit Card
+TXN00256,2025-04-03,Groceries,Local Market,Local Market - groceries purchase,Debit Card,506.48,Bank Account
+TXN00924,2025-04-03,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1279.8,Bank Account
+TXN00522,2025-04-04,Housing,Home Supplies,Home Supplies - housing purchase,UPI,11645.53,Bank Account
+TXN01607,2025-04-05,Education,Training Centre,Training Centre - education purchase,UPI,7000.0,Credit Card
+TXN01575,2025-04-05,Transport,Fuel Station,Fuel Station - transport purchase,UPI,317.93,Credit Card
+TXN00457,2025-04-05,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,15236.41,Bank Account
+TXN00938,2025-04-05,Housing,Maintenance,Maintenance - housing purchase,UPI,9837.53,Cash Wallet
+TXN00752,2025-04-05,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,217.27,Bank Account
+TXN00975,2025-04-05,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Cash,1123.23,Cash Wallet
+TXN01677,2025-04-06,Shopping,Online Store,Online Store - shopping purchase,UPI,2509.73,Bank Account
+TXN01698,2025-04-06,Transport,Metro,Metro - transport purchase,UPI,900.0,Bank Account
+TXN01524,2025-04-06,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,1146.32,Bank Account
+TXN00273,2025-04-07,Dining,Quick Bites,Quick Bites - dining purchase,Cash,272.65,Credit Card
+TXN01481,2025-04-07,Entertainment,Concert,Concert - entertainment purchase,Credit Card,1445.01,Bank Account
+TXN00357,2025-04-07,Shopping,Electronics Store,Electronics Store - shopping purchase,Cash,1507.02,Credit Card
+TXN01104,2025-04-07,Shopping,Department Store,Department Store - shopping purchase,Debit Card,3215.75,Credit Card
+TXN00182,2025-04-08,Education,Training Centre,Training Centre - education purchase,Net Banking,4842.32,Bank Account
+TXN00390,2025-04-08,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1711.84,Credit Card
+TXN00961,2025-04-08,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,2375.33,Bank Account
+TXN01537,2025-04-08,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,786.74,Credit Card
+TXN01229,2025-04-09,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,358.48,Bank Account
+TXN01046,2025-04-09,Education,Online Course,,Credit Card,3675.33,Bank Account
+TXN00536,2025-04-09,Travel,Flight Booking,Flight Booking - travel purchase,Debit Card,7142.63,Bank Account
+TXN00058,2025-04-09,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,10950.25,Bank Account
+TXN00847,2025-04-10,Shopping,Online Store,Online Store - shopping purchase,Credit Card,3137.39,Bank Account
+TXN00533,2025-04-10,Groceries,Daily Needs,Daily Needs - groceries purchase,Net Banking,1442.41,Credit Card
+TXN00884,2025-04-10,Groceries,Green Basket,Green Basket - groceries purchase,Credit Card,2200.0,Bank Account
+TXN01406,2025-04-10,Transport,Metro,Metro - transport purchase,UPI,632.08,Bank Account
+TXN01655,2025-04-10,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,204.14,Bank Account
+TXN00937,2025-04-11,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1781.77,Bank Account
+TXN00750,2025-04-11,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,421.49,Credit Card
+TXN00178,2025-04-13,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,18000.0,Bank Account
+TXN00287,2025-04-13,Transport,Fuel Station,Fuel Station - transport purchase,Credit Card,171.77,Cash Wallet
+TXN00083,2025-04-13,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,1293.84,Bank Account
+TXN01695,2025-04-13,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,695.28,Credit Card
+TXN01487,2025-04-14,Travel,Flight Booking,Flight Booking - travel purchase,Credit Card,6386.4,Bank Account
+TXN01778,2025-04-14,Health,Pharmacy,Pharmacy - health purchase,UPI,712.64,Cash Wallet
+TXN01556,2025-04-14,Utilities,Internet Provider,Internet Provider - utilities purchase,Cash,2291.02,Credit Card
+TXN01076,2025-04-15,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,795.49,Cash Wallet
+TXN01078,2025-04-16,Education,Online Course,Online Course - education purchase,UPI,3143.58,Bank Account
+TXN01637,2025-04-16,Health,Pharmacy,Pharmacy - health purchase,UPI,5000.0,Cash Wallet
+TXN00467,2025-04-16,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,640.39,Credit Card
+TXN01596,2025-04-16,Housing,Maintenance,Maintenance - housing purchase,UPI,11092.22,Bank Account
+TXN00041,2025-04-16,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,327.43,Credit Card
+TXN00623,2025-04-16,Entertainment,Cinema,Cinema - entertainment purchase,Debit Card,491.34,Bank Account
+TXN00350,2025-04-16,Education,Book Store,Book Store - education purchase,Debit Card,883.86,Bank Account
+TXN00532,2025-04-16,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1359.52,Cash Wallet
+TXN00168,2025-04-17,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,3067.64,Bank Account
+TXN00187,2025-04-17,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,1660.43,Bank Account
+TXN00703,2025-04-18,Shopping,Department Store,Department Store - shopping purchase,UPI,3706.01,Bank Account
+TXN01193,2025-04-19,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,2730.17,Bank Account
+TXN00685,2025-04-19,Utilities,Electricity Board,Electricity Board - utilities purchase,Cash,3500.0,Bank Account
+TXN00262,2025-04-19,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,4424.5,Bank Account
+TXN01433,2025-04-20,Entertainment,Game Store,Game Store - entertainment purchase,UPI,538.15,Bank Account
+TXN00704,2025-04-20,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,3181.62,Bank Account
+TXN01032,2025-04-21,Utilities,Water Bill,Water Bill - utilities purchase,Debit Card,2478.43,Bank Account
+TXN00908,2025-04-21,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,9438.86,Bank Account
+TXN01616,2025-04-21,Entertainment,Cinema,Cinema - entertainment purchase,Debit Card,389.69,Bank Account
+TXN00259,2025-04-22,Housing,Home Supplies,Home Supplies - housing purchase,UPI,9454.34,Bank Account
+TXN00544,2025-04-22,Groceries,Green Basket,Green Basket - groceries purchase,Credit Card,1157.87,Credit Card
+TXN00411,2025-04-22,Transport,Ride App,Ride App - transport purchase,Net Banking,131.44,Bank Account
+TXN00761,2025-04-23,Groceries,Green Basket,Green Basket - groceries purchase,Net Banking,462.51,Bank Account
+TXN00230,2025-04-23,Travel,Train Ticket,Train Ticket - travel purchase,Debit Card,9843.85,Bank Account
+TXN00661,2025-04-23,Travel,Hotel,Hotel - travel purchase,UPI,4403.84,Bank Account
+TXN01174,2025-04-24,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,232.97,Credit Card
+TXN01702,2025-04-24,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,6500.0,Cash Wallet
+TXN01405,2025-04-24,Housing,Home Supplies,Home Supplies - housing purchase,Credit Card,10444.56,Bank Account
+TXN00251,2025-04-25,Groceries,Local Market,Local Market - groceries purchase,UPI,2200.0,Credit Card
+TXN00392,2025-04-25,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Credit Card,2837.13,Cash Wallet
+TXN01106,2025-04-26,Entertainment,Game Store,Game Store - entertainment purchase,UPI,792.08,Bank Account
+TXN00349,2025-04-26,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1111.06,Bank Account
+TXN00564,2025-04-26,Transport,Fuel Station,Fuel Station - transport purchase,UPI,713.22,Bank Account
+TXN00469,2025-04-26,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,278.03,Bank Account
+TXN01639,2025-04-27,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Cash,1550.31,Bank Account
+TXN00635,2025-04-27,Groceries,Green Basket,Green Basket - groceries purchase,UPI,617.34,Bank Account
+TXN00023,2025-04-27,Utilities,Water Bill,Water Bill - utilities purchase,Debit Card,984.92,Credit Card
+TXN00912,2025-04-28,Housing,Home Supplies,Home Supplies - housing purchase,UPI,12996.32,Bank Account
+TXN01663,2025-04-29,Shopping,Department Store,Department Store - shopping purchase,Cash,839.66,Cash Wallet
+TXN01798,2025-04-29,Groceries,Green Basket,Green Basket - groceries purchase,Cash,990.19,Credit Card
+TXN01432,2025-04-29,Transport,Ride App,Ride App - transport purchase,Credit Card,654.14,Bank Account
+TXN01326,2025-04-30,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,788.57,Bank Account
+TXN01345,2025-04-30,Transport,Fuel Station,Fuel Station - transport purchase,UPI,236.09,Bank Account
+TXN00072,2025-05-01,Groceries,Local Market,Local Market - groceries purchase,Net Banking,612.81,Bank Account
+TXN01534,2025-05-01,Transport,Ride App,Ride App - transport purchase,UPI,244.58,Bank Account
+TXN00253,2025-05-01,Groceries,Local Market,Local Market - groceries purchase,UPI,1254.6,Bank Account
+TXN01651,2025-05-02,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Net Banking,1348.44,Credit Card
+TXN01113,2025-05-03,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,676.33,Bank Account
+TXN01178,2025-05-03,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,241.42,Bank Account
+TXN00523,2025-05-03,Housing,Maintenance,Maintenance - housing purchase,Debit Card,12422.22,Credit Card
+TXN01523,2025-05-03,Health,Clinic,Clinic - health purchase,UPI,517.43,Credit Card
+TXN00888,2025-05-04,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Cash,3628.63,Bank Account
+TXN01115,2025-05-05,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,608.45,Bank Account
+TXN00052,2025-05-05,Dining,Food Street,Food Street - dining purchase,Debit Card,965.64,Bank Account
+TXN00543,2025-05-05,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1473.77,Bank Account
+TXN01770,2025-05-06,Housing,Maintenance,Maintenance - housing purchase,Debit Card,18000.0,Bank Account
+TXN00398,2025-05-06,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,617.31,Bank Account
+TXN00993,2025-05-06,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,2301.14,Bank Account
+TXN01787,2025-05-07,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,1190.18,Credit Card
+TXN00838,2025-05-07,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,358.53,Cash Wallet
+TXN00102,2025-05-08,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,16330.6,Bank Account
+TXN00426,2025-05-08,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,673.83,Bank Account
+TXN01704,2025-05-08,Shopping,Department Store,Department Store - shopping purchase,UPI,4705.24,Bank Account
+TXN01085,2025-05-08,Utilities,Water Bill,Water Bill - utilities purchase,Cash,1573.18,Bank Account
+TXN00872,2025-05-09,Health,Pharmacy,Pharmacy - health purchase,Cash,1752.22,Bank Account
+TXN01796,2025-05-09,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,963.53,Cash Wallet
+TXN00009,2025-05-09,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,454.24,Credit Card
+TXN01364,2025-05-09,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1077.99,Cash Wallet
+TXN00224,2025-05-10,Dining,Food Street,Food Street - dining purchase,Credit Card,368.64,Credit Card
+TXN00339,2025-05-10,Dining,Family Restaurant,Family Restaurant - dining purchase,Net Banking,430.06,Bank Account
+TXN00664,2025-05-10,Entertainment,Game Store,Game Store - entertainment purchase,UPI,512.42,Cash Wallet
+TXN00653,2025-05-10,Dining,Food Street,Food Street - dining purchase,UPI,632.04,Bank Account
+TXN01740,2025-05-11,Dining,Food Street,Food Street - dining purchase,Debit Card,856.45,Bank Account
+TXN01474,2025-05-13,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,383.34,Bank Account
+TXN00735,2025-05-13,Travel,Flight Booking,Flight Booking - travel purchase,Debit Card,13403.41,Bank Account
+TXN01072,2025-05-14,Travel,Train Ticket,Train Ticket - travel purchase,Credit Card,10596.72,Cash Wallet
+TXN01745,2025-05-15,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,550.56,Credit Card
+TXN01710,2025-05-16,Transport,Ride App,Ride App - transport purchase,UPI,259.87,Bank Account
+TXN00142,2025-05-17,Shopping,Online Store,Online Store - shopping purchase,Debit Card,3297.58,Credit Card
+TXN01395,2025-05-18,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,1137.83,Bank Account
+TXN01582,2025-05-19,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,347.95,Bank Account
+TXN00964,2025-05-19,Housing,Home Supplies,Home Supplies - housing purchase,UPI,5065.95,Cash Wallet
+TXN00903,2025-05-20,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,996.24,Bank Account
+TXN01355,2025-05-21,Travel,Train Ticket,Train Ticket - travel purchase,UPI,7334.58,Cash Wallet
+TXN01257,2025-05-22,Groceries,Green Basket,Green Basket - groceries purchase,UPI,984.76,Credit Card
+TXN00363,2025-05-23,Transport,Fuel Station,Fuel Station - transport purchase,UPI,542.56,Cash Wallet
+TXN00976,2025-05-24,Health,Pharmacy,Pharmacy - health purchase,Debit Card,485.74,Bank Account
+TXN00078,2025-05-25,Transport,Metro,Metro - transport purchase,UPI,264.19,Cash Wallet
+TXN00032,2025-05-25,Transport,Ride App,Ride App - transport purchase,UPI,158.8,Bank Account
+TXN01512,2025-05-26,Travel,Train Ticket,Train Ticket - travel purchase,Debit Card,4632.8,Cash Wallet
+TXN00567,2025-05-26,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,16293.25,Credit Card
+TXN01503,2025-05-27,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,3821.62,Cash Wallet
+TXN00326,2025-05-27,Entertainment,Cinema,Cinema - entertainment purchase,UPI,392.2,Bank Account
+TXN00412,2025-05-27,Education,Book Store,Book Store - education purchase,UPI,4294.0,Credit Card
+TXN01545,2025-05-28,Housing,Home Supplies,Home Supplies - housing purchase,UPI,11119.06,Credit Card
+TXN01479,2025-05-28,Groceries,Local Market,Local Market - groceries purchase,UPI,864.55,Credit Card
+TXN01656,2025-05-28,Shopping,Electronics Store,Electronics Store - shopping purchase,Cash,4387.77,Credit Card
+TXN00626,2025-05-29,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,799.21,Bank Account
+TXN00486,2025-05-29,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1074.56,Bank Account
+TXN01112,2025-05-29,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,256.16,Bank Account
+TXN01386,2025-05-30,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,363.43,Credit Card
+TXN01291,2025-05-30,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,588.72,Bank Account
+TXN01288,2025-05-30,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,608.16,Credit Card
+TXN00148,2025-05-30,Health,Clinic,Clinic - health purchase,UPI,4271.54,Bank Account
+TXN00637,2025-05-31,Health,Pharmacy,Pharmacy - health purchase,UPI,1708.74,Bank Account
+TXN00719,2025-05-31,Travel,Train Ticket,Train Ticket - travel purchase,Cash,12673.13,Bank Account
+TXN00327,2025-05-31,Housing,Home Supplies,Home Supplies - housing purchase,UPI,11690.47,Bank Account
+TXN00510,2025-05-31,Shopping,Online Store,Online Store - shopping purchase,Credit Card,3714.13,Bank Account
+TXN01609,2025-05-31,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,2272.12,Bank Account
+TXN00566,2025-06-01,Shopping,Department Store,Department Store - shopping purchase,Debit Card,3757.96,Bank Account
+TXN01308,2025-06-01,Housing,Maintenance,Maintenance - housing purchase,UPI,11916.68,Bank Account
+TXN00854,2025-06-02,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Debit Card,1866.78,Bank Account
+TXN00097,2025-06-02,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,5316.17,Bank Account
+TXN01265,2025-06-02,Entertainment,Game Store,Game Store - entertainment purchase,Net Banking,430.28,Bank Account
+TXN00189,2025-06-02,Housing,Home Supplies,Home Supplies - housing purchase,UPI,8452.42,Bank Account
+TXN01047,2025-06-02,Dining,Food Street,Food Street - dining purchase,UPI,538.39,Bank Account
+TXN00384,2025-06-03,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,2149.84,Cash Wallet
+TXN00593,2025-06-03,Shopping,Online Store,Online Store - shopping purchase,UPI,3322.31,Bank Account
+TXN00832,2025-06-03,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1167.34,Credit Card
+TXN01402,2025-06-03,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,1344.07,Credit Card
+TXN01251,2025-06-04,Shopping,Department Store,Department Store - shopping purchase,UPI,3741.08,Bank Account
+TXN01506,2025-06-04,Dining,Cafe Corner,Cafe Corner - dining purchase,Cash,990.11,Cash Wallet
+TXN01542,2025-06-04,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,312.28,Bank Account
+TXN01107,2025-06-05,Housing,Maintenance,Maintenance - housing purchase,UPI,15084.14,Bank Account
+TXN01786,2025-06-05,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,6500.0,Credit Card
+TXN01124,2025-06-05,Dining,Food Street,Food Street - dining purchase,UPI,467.56,Credit Card
+TXN00315,2025-06-05,Dining,Quick Bites,Quick Bites - dining purchase,Cash,642.8,Bank Account
+TXN01709,2025-06-05,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,4273.83,Bank Account
+TXN00831,2025-06-06,Education,Training Centre,Training Centre - education purchase,UPI,3140.04,Bank Account
+TXN00119,2025-06-06,Groceries,Green Basket,Green Basket - groceries purchase,UPI,173.99,Credit Card
+TXN01013,2025-06-06,Entertainment,Game Store,Game Store - entertainment purchase,UPI,417.67,Bank Account
+TXN01454,2025-06-06,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,2265.35,Cash Wallet
+TXN00857,2025-06-06,Groceries,Local Market,Local Market - groceries purchase,Debit Card,1671.28,Bank Account
+TXN01515,2025-06-07,Housing,Home Supplies,Home Supplies - housing purchase,UPI,12179.77,Bank Account
+TXN00989,2025-06-07,Entertainment,Game Store,Game Store - entertainment purchase,Credit Card,1800.0,Credit Card
+TXN00508,2025-06-08,Groceries,Local Market,Local Market - groceries purchase,UPI,2200.0,Bank Account
+TXN00925,2025-06-08,Shopping,Department Store,Department Store - shopping purchase,UPI,1385.74,Bank Account
+TXN01563,2025-06-08,Groceries,Green Basket,Green Basket - groceries purchase,Cash,531.19,Bank Account
+TXN00483,2025-06-09,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1547.86,Bank Account
+TXN00568,2025-06-09,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,368.38,Bank Account
+TXN00617,2025-06-09,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,1213.18,Credit Card
+TXN01413,2025-06-09,Transport,Ride App,Ride App - transport purchase,UPI,76.54,Credit Card
+TXN00696,2025-06-11,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Cash,1656.16,Bank Account
+TXN01660,2025-06-11,Groceries,Local Market,Local Market - groceries purchase,Debit Card,244.21,Credit Card
+TXN01307,2025-06-12,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,2384.02,Bank Account
+TXN00919,2025-06-12,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,12231.34,Bank Account
+TXN01562,2025-06-12,Shopping,Department Store,Department Store - shopping purchase,UPI,1423.5,Bank Account
+TXN00346,2025-06-13,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,644.49,Credit Card
+TXN01425,2025-06-13,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,978.31,Credit Card
+TXN00933,2025-06-14,Housing,Maintenance,Maintenance - housing purchase,UPI,7281.15,Credit Card
+TXN01179,2025-06-15,Dining,Cafe Corner,Cafe Corner - dining purchase,Net Banking,460.78,Bank Account
+TXN01502,2025-06-16,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Net Banking,2147.73,Bank Account
+TXN00211,2025-06-16,Groceries,Local Market,Local Market - groceries purchase,UPI,1122.47,Cash Wallet
+TXN00380,2025-06-17,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2047.85,Bank Account
+TXN01297,2025-06-17,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,812.71,Bank Account
+TXN01459,2025-06-18,Travel,Train Ticket,Train Ticket - travel purchase,Credit Card,8421.64,Cash Wallet
+TXN00209,2025-06-18,Travel,Hotel,Hotel - travel purchase,UPI,4884.33,Bank Account
+TXN01701,2025-06-19,Transport,Metro,Metro - transport purchase,Debit Card,207.79,Bank Account
+TXN01621,2025-06-19,Groceries,Local Market,Local Market - groceries purchase,Credit Card,1106.43,Credit Card
+TXN01261,2025-06-19,Housing,Maintenance,Maintenance - housing purchase,Credit Card,8214.19,Credit Card
+TXN00206,2025-06-19,Health,Clinic,Clinic - health purchase,UPI,1025.31,Bank Account
+TXN00292,2025-06-20,Transport,Ride App,Ride App - transport purchase,Debit Card,77.49,Bank Account
+TXN01673,2025-06-20,Shopping,Online Store,Online Store - shopping purchase,Net Banking,1855.6,Credit Card
+TXN01429,2025-06-20,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,792.09,Bank Account
+TXN00618,2025-06-20,Travel,Train Ticket,Train Ticket - travel purchase,UPI,8206.36,Bank Account
+TXN01011,2025-06-21, grocery ,Daily Needs,Daily Needs - groceries purchase,Debit Card,928.79,Cash Wallet
+TXN00509,2025-06-21,Entertainment,Game Store,Game Store - entertainment purchase,Credit Card,817.4,Cash Wallet
+TXN01123,2025-06-21,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1378.49,Credit Card
+TXN00779,2025-06-22,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1800.0,Bank Account
+TXN00890,2025-06-22,Groceries,Local Market,Local Market - groceries purchase,Credit Card,335.33,Credit Card
+TXN00744,2025-06-22,Dining,Quick Bites,Quick Bites - dining purchase,UPI,334.64,Bank Account
+TXN00216,2025-06-23,Groceries,Local Market,Local Market - groceries purchase,Debit Card,1128.72,Bank Account
+TXN00505,2025-06-24,Dining,Food Street,Food Street - dining purchase,Debit Card,769.23,Bank Account
+TXN01640,2025-06-24,Housing,Maintenance,Maintenance - housing purchase,UPI,18000.0,Bank Account
+TXN01322,2025-06-25,Housing,Home Supplies,Home Supplies - housing purchase,Credit Card,10991.41,Bank Account
+TXN01491,2025-06-25,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,989.96,Cash Wallet
+TXN00281,2025-06-25,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Cash,5907.74,Bank Account
+TXN00143,2025-06-26,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,1723.99,Cash Wallet
+TXN00039,2025-06-26,Entertainment,Game Store,Game Store - entertainment purchase,UPI,852.04,Credit Card
+TXN00111,2025-06-26,Shopping,Department Store,Department Store - shopping purchase,UPI,1402.27,Bank Account
+TXN00950,2025-06-27,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,4462.95,Credit Card
+TXN01794,2025-06-27,Travel,Hotel,Hotel - travel purchase,Debit Card,6865.65,Bank Account
+TXN01192,2025-06-27,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,574.12,Bank Account
+TXN00413,2025-06-28,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Credit Card,3500.0,Bank Account
+TXN00399,2025-06-28,Shopping,Electronics Store,Electronics Store - shopping purchase,Debit Card,2289.83,Bank Account
+TXN00152,2025-06-29,Groceries,Local Market,Local Market - groceries purchase,Credit Card,802.34,Credit Card
+TXN01551,2025-06-29,Shopping,Department Store,Department Store - shopping purchase,UPI,6500.0,Credit Card
+TXN01028,2025-06-29,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,2448.01,Bank Account
+TXN00314,2025-06-29,Transport,Metro,Metro - transport purchase,UPI,511.47,Bank Account
+TXN00573,2025-06-30,Groceries,Local Market,Local Market - groceries purchase,Debit Card,2200.0,Cash Wallet
+TXN01410,2025-06-30,Entertainment,Concert,Concert - entertainment purchase,Credit Card,712.95,Bank Account
+TXN00814,2025-07-01,Entertainment,Concert,Concert - entertainment purchase,Debit Card,326.03,Bank Account
+TXN01209,2025-07-01,Transport,Bus Pass,Bus Pass - transport purchase,Net Banking,786.58,Bank Account
+TXN01382,2025-07-01,Dining,Quick Bites,Quick Bites - dining purchase,UPI,855.76,Bank Account
+TXN00299,2025-07-01,Dining,Food Street,Food Street - dining purchase,UPI,911.14,Credit Card
+TXN00534,2025-07-01,Groceries,Local Market,Local Market - groceries purchase,UPI,811.02,Credit Card
+TXN00450,2025-07-02,Groceries,Local Market,Local Market - groceries purchase,UPI,1106.3,Credit Card
+TXN01230,2025-07-03,Groceries,Local Market,Local Market - groceries purchase,Cash,1366.83,Bank Account
+TXN00855,2025-07-03,Transport,Ride App,Ride App - transport purchase,Debit Card,415.48,Cash Wallet
+TXN00096,2025-07-03,Housing,Home Supplies,Home Supplies - housing purchase,Cash,18000.0,Bank Account
+TXN00660,2025-07-03,Entertainment,Concert,Concert - entertainment purchase,Cash,402.31,Credit Card
+TXN00481,2025-07-03,Housing,Maintenance,Maintenance - housing purchase,UPI,14500.21,Credit Card
+TXN00495,2025-07-04,Entertainment,Concert,Concert - entertainment purchase,UPI,1665.9,Bank Account
+TXN00841,2025-07-04,Dining,Food Street,Food Street - dining purchase,Debit Card,361.96,Bank Account
+TXN01483,2025-07-05,Groceries,Green Basket,Green Basket - groceries purchase,Cash,864.06,Bank Account
+TXN00342,2025-07-05,Transport,Bus Pass,Bus Pass - transport purchase,Credit Card,652.18,Bank Account
+TXN01561,2025-07-05,Entertainment,Cinema,Cinema - entertainment purchase,UPI,1600.17,Credit Card
+TXN01114,2025-07-06,Housing,Home Supplies,Home Supplies - housing purchase,Debit Card,6179.71,Bank Account
+TXN01451,2025-07-07,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,954.77,Bank Account
+TXN00154,2025-07-07,Groceries,Green Basket,Green Basket - groceries purchase,Cash,1294.89,Bank Account
+TXN01646,2025-07-08,Transport,Bus Pass,Bus Pass - transport purchase,Cash,900.0,Bank Account
+TXN00271,2025-07-08,Transport,Bus Pass,Bus Pass - transport purchase,UPI,110.07,Credit Card
+TXN00796,2025-07-08,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,11352.77,Bank Account
+TXN01239,2025-07-09,Health,Clinic,Clinic - health purchase,UPI,2177.55,Cash Wallet
+TXN01581,2025-07-09,Housing,Home Supplies,Home Supplies - housing purchase,Net Banking,8842.24,Credit Card
+TXN00638,2025-07-09,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,4394.93,Bank Account
+TXN00419,2025-07-09,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,5822.52,Cash Wallet
+TXN01338,2025-07-09,Transport,Fuel Station,Fuel Station - transport purchase,Credit Card,900.0,Bank Account
+TXN01316,2025-07-10,Groceries,Green Basket,Green Basket - groceries purchase,UPI,477.24,Bank Account
+TXN00353,2025-07-10,Groceries,Local Market,Local Market - groceries purchase,Debit Card,837.73,Bank Account
+TXN00971,2025-07-10,Dining,Quick Bites,Quick Bites - dining purchase,Credit Card,487.35,Cash Wallet
+TXN01400,2025-07-11,Shopping,Online Store,Online Store - shopping purchase,UPI,792.6,Bank Account
+TXN01403,2025-07-11,Housing,Home Supplies,Home Supplies - housing purchase,UPI,8384.57,Credit Card
+TXN00263,2025-07-11,Entertainment,Game Store,Game Store - entertainment purchase,UPI,1014.32,Bank Account
+TXN00442,2025-07-12,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Net Banking,1037.9,Credit Card
+TXN01476,2025-07-12,Groceries,Local Market,Local Market - groceries purchase,UPI,2200.0,Bank Account
+TXN00928,2025-07-12,Housing,Monthly Rent,Monthly Rent - housing purchase,Credit Card,5533.02,Bank Account
+TXN00802,2025-07-12,Travel,Flight Booking,Flight Booking - travel purchase,Credit Card,7793.94,Credit Card
+TXN01601,2025-07-12,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1124.73,Bank Account
+TXN00307,2025-07-12,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1541.9,Bank Account
+TXN00190,2025-07-12,Housing,Home Supplies,Home Supplies - housing purchase,UPI,16072.64,Cash Wallet
+TXN01367,2025-07-12,Shopping,Online Store,Online Store - shopping purchase,UPI,6500.0,Credit Card
+TXN00136,2025-07-13,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,4069.84,Bank Account
+TXN01155,2025-07-14,Transport,Metro,Metro - transport purchase,Debit Card,347.05,Cash Wallet
+TXN00952,2025-07-14,Entertainment,Concert,Concert - entertainment purchase,UPI,410.87,Cash Wallet
+TXN01391,2025-07-15,Travel,Flight Booking,Flight Booking - travel purchase,Cash,4676.86,Bank Account
+TXN01105,2025-07-15,Groceries,Local Market,Local Market - groceries purchase,Credit Card,305.24,Credit Card
+TXN00226,2025-07-15,Utilities,Water Bill,Water Bill - utilities purchase,UPI,1002.95,Bank Account
+TXN00239,2025-07-16,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,885.36,Credit Card
+TXN01186,2025-07-16,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,228.25,Bank Account
+TXN01779,2025-07-16,Shopping,Electronics Store,Electronics Store - shopping purchase,Cash,4039.97,Bank Account
+TXN00333,2025-07-17,Dining,Food Street,Food Street - dining purchase,Debit Card,895.63,Credit Card
+TXN00526,2025-07-17,Transport,Ride App,Ride App - transport purchase,UPI,130.53,Cash Wallet
+TXN00400,2025-07-17,Transport,Ride App,Ride App - transport purchase,Credit Card,900.0,Bank Account
+TXN01060,2025-07-18,Utilities,Water Bill,Water Bill - utilities purchase,Credit Card,2185.45,Bank Account
+TXN00749,2025-07-19,Entertainment,Game Store,Game Store - entertainment purchase,Credit Card,629.23,Bank Account
+TXN01462,2025-07-19,Groceries,Local Market,,Cash,873.32,Credit Card
+TXN00088,2025-07-19,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Net Banking,673.95,Credit Card
+TXN00447,2025-07-20,Transport,Metro,Metro - transport purchase,UPI,537.52,Bank Account
+TXN00748,2025-07-20,Health,Clinic,Clinic - health purchase,Cash,1850.77,Bank Account
+TXN01014,2025-07-20,Utilities,Internet Provider,Internet Provider - utilities purchase,Credit Card,1246.26,Bank Account
+TXN01034,2025-07-20,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Cash,3651.23,Cash Wallet
+TXN00988,2025-07-21,Dining,Quick Bites,Quick Bites - dining purchase,UPI,501.66,Credit Card
+TXN00309,2025-07-21,Dining,Food Street,,Debit Card,809.17,Bank Account
+TXN00799,2025-07-21,Travel,Travel Agency,Travel Agency - travel purchase,Net Banking,3018.52,Credit Card
+TXN00368,2025-07-21,Travel,Train Ticket,Train Ticket - travel purchase,UPI,6735.88,Cash Wallet
+TXN01177,2025-07-21,Travel,Hotel,Hotel - travel purchase,UPI,4814.74,Bank Account
+TXN00338,2025-07-22,Transport,Bus Pass,Bus Pass - transport purchase,UPI,686.33,Credit Card
+TXN01586,2025-07-22,Transport,Fuel Station,Fuel Station - transport purchase,Cash,621.73,Credit Card
+TXN01604,2025-07-22,Entertainment,Concert,Concert - entertainment purchase,Debit Card,796.6,Credit Card
+TXN00968,2025-07-22,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,794.65,Bank Account
+TXN00554,2025-07-22,Education,Online Course,Online Course - education purchase,Debit Card,6868.55,Credit Card
+TXN01435,2025-07-23,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,269.13,Bank Account
+TXN01439,2025-07-23,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1774.57,Bank Account
+TXN00525,2025-07-23,Transport,Ride App,Ride App - transport purchase,Credit Card,366.83,Credit Card
+TXN01756,2025-07-23,Education,Training Centre,Training Centre - education purchase,Debit Card,2161.89,Bank Account
+TXN01576,2025-07-23,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,407.03,Bank Account
+TXN01527,2025-07-23,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,473.85,Bank Account
+TXN00321,2025-07-24,Groceries,Local Market,Local Market - groceries purchase,Cash,743.43,Credit Card
+TXN00167,2025-07-24,Transport,Ride App,Ride App - transport purchase,Cash,381.66,Credit Card
+TXN00403,2025-07-24,Shopping,Department Store,Department Store - shopping purchase,UPI,2060.64,Bank Account
+TXN00595,2025-07-24,Transport,Bus Pass,Bus Pass - transport purchase,UPI,342.81,Bank Account
+TXN01504,2025-07-25,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1029.26,Credit Card
+TXN01404,2025-07-25,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,11908.6,Bank Account
+TXN00607,2025-07-26,Shopping,Department Store,Department Store - shopping purchase,Debit Card,1113.31,Bank Account
+TXN01249,2025-07-27,Health,Pharmacy,Pharmacy - health purchase,UPI,2181.42,Credit Card
+TXN00066,2025-07-27,Housing,Maintenance,Maintenance - housing purchase,Credit Card,14286.57,Credit Card
+TXN01388,2025-07-27,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,550.66,Bank Account
+TXN00632,2025-07-28,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,2200.0,Bank Account
+TXN00646,2025-07-29,Transport,Metro,Metro - transport purchase,UPI,900.0,Bank Account
+TXN01095,2025-07-29,Housing,Home Supplies,Home Supplies - housing purchase,Net Banking,18000.0,Bank Account
+TXN00077,2025-07-30,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,10033.77,Bank Account
+TXN00254,2025-07-30,Groceries,Local Market,Local Market - groceries purchase,Debit Card,909.77,Credit Card
+TXN01514,2025-07-31,Utilities,Water Bill,Water Bill - utilities purchase,Net Banking,1595.82,Bank Account
+TXN00294,2025-07-31,Travel,Train Ticket,Train Ticket - travel purchase,UPI,6495.46,Credit Card
+TXN01145,2025-07-31,Travel,Flight Booking,Flight Booking - travel purchase,UPI,2403.5,Bank Account
+TXN01777,2025-07-31,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,9792.22,Bank Account
+TXN01511,2025-08-01,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Credit Card,4706.85,Cash Wallet
+TXN01069,2025-08-01,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,11333.05,Cash Wallet
+TXN00738,2025-08-01,Education,Book Store,Book Store - education purchase,UPI,1485.24,Credit Card
+TXN01494,2025-08-01,Groceries,Local Market,Local Market - groceries purchase,Debit Card,1004.48,Bank Account
+TXN01030,2025-08-02,Housing,Monthly Rent,Monthly Rent - housing purchase,Net Banking,11634.03,Bank Account
+TXN00487,2025-08-02,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,4954.01,Credit Card
+TXN00169,2025-08-02,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,557.92,Credit Card
+TXN00371,2025-08-03,Travel,Train Ticket,Train Ticket - travel purchase,UPI,7846.57,Credit Card
+TXN00627,2025-08-04,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,607.02,Bank Account
+TXN01142,2025-08-04,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,2628.65,Bank Account
+TXN01771,2025-08-04,Utilities,Water Bill,Water Bill - utilities purchase,Net Banking,930.74,Bank Account
+TXN01782,2025-08-05,Entertainment,Concert,Concert - entertainment purchase,Debit Card,483.19,Bank Account
+TXN01176,2025-08-05,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,2036.47,Bank Account
+TXN00199,2025-08-05,Entertainment,Concert,Concert - entertainment purchase,UPI,764.73,Bank Account
+TXN01160,2025-08-06,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1959.69,Cash Wallet
+TXN00197,2025-08-07,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,816.42,Bank Account
+TXN00991,2025-08-07,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,1400.0,Credit Card
+TXN01330,2025-08-07,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,3561.69,Bank Account
+TXN01711,2025-08-07,Entertainment,Cinema,Cinema - entertainment purchase,Cash,696.49,Bank Account
+TXN01793,2025-08-08,Entertainment,Concert,Concert - entertainment purchase,Credit Card,1800.0,Bank Account
+TXN01357,2025-08-08,Entertainment,Concert,Concert - entertainment purchase,Cash,347.86,Bank Account
+TXN01647,2025-08-08,Travel,Flight Booking,Flight Booking - travel purchase,UPI,2712.65,Credit Card
+TXN01372,2025-08-08,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Net Banking,1282.99,Bank Account
+TXN01383,2025-08-10,Transport,Bus Pass,Bus Pass - transport purchase,Credit Card,578.12,Cash Wallet
+TXN00139,2025-08-10,Housing,Maintenance,Maintenance - housing purchase,UPI,18000.0,Bank Account
+TXN01236,2025-08-10,Utilities,Water Bill,Water Bill - utilities purchase,Cash,2740.49,Bank Account
+TXN01407,2025-08-10,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,16775.41,Bank Account
+TXN01592,2025-08-10,Transport,Metro,Metro - transport purchase,Debit Card,649.08,Bank Account
+TXN00268,2025-08-10,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,441.55,Credit Card
+TXN01312,2025-08-11,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,12727.3,Credit Card
+TXN01757,2025-08-11,Transport,Ride App,Ride App - transport purchase,Cash,61.77,Credit Card
+TXN00979,2025-08-12,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1304.3,Credit Card
+TXN01363,2025-08-12,Housing,Maintenance,Maintenance - housing purchase,Debit Card,9935.94,Credit Card
+TXN00044,2025-08-15,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,296.22,Bank Account
+TXN00521,2025-08-17,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,2017.65,Bank Account
+TXN01685,2025-08-17,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,470.19,Credit Card
+TXN01699,2025-08-18,Education,Book Store,Book Store - education purchase,Cash,2525.77,Bank Account
+TXN00998,2025-08-19,Dining,Food Street,Food Street - dining purchase,Cash,338.93,Credit Card
+TXN00194,2025-08-19,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,274.35,Bank Account
+TXN00765,2025-08-19,Education,Online Course,Online Course - education purchase,UPI,2167.88,Bank Account
+TXN01572,2025-08-19,Entertainment,Game Store,Game Store - entertainment purchase,UPI,1800.0,Bank Account
+TXN01773,2025-08-20,Transport,Bus Pass,Bus Pass - transport purchase,UPI,70.02,Cash Wallet
+TXN00301,2025-08-21,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,699.33,Credit Card
+TXN01052,2025-08-21,Groceries,Green Basket,Green Basket - groceries purchase,UPI,559.26,Bank Account
+TXN00053,2025-08-21,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,211.8,Bank Account
+TXN00746,2025-08-21,Housing,Home Supplies,Home Supplies - housing purchase,Credit Card,7278.62,Bank Account
+TXN01138,2025-08-22,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,561.73,Credit Card
+TXN00063,2025-08-22,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Credit Card,1715.78,Bank Account
+TXN00630,2025-08-22,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,335.73,Bank Account
+TXN00201,2025-08-22,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,906.57,Cash Wallet
+TXN01360,2025-08-22,Transport,Bus Pass,Bus Pass - transport purchase,UPI,337.32,Bank Account
+TXN00628,2025-08-23,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,9571.68,Bank Account
+TXN00393,2025-08-23,Utilities,Electricity Board,Electricity Board - utilities purchase,Cash,3022.67,Cash Wallet
+TXN01151,2025-08-24,Travel,Flight Booking,Flight Booking - travel purchase,UPI,8002.86,Bank Account
+TXN01271,2025-08-24,Transport,Ride App,Ride App - transport purchase,UPI,900.0,Bank Account
+TXN00022,2025-08-25,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Cash,702.36,Bank Account
+TXN00909,2025-08-25,Transport,Ride App,Ride App - transport purchase,UPI,452.43,Bank Account
+TXN00068,2025-08-25,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,878.91,Bank Account
+TXN00332,2025-08-25,Utilities,Internet Provider,Internet Provider - utilities purchase,Credit Card,2877.19,Credit Card
+TXN01044,2025-08-26,Dining,Quick Bites,Quick Bites - dining purchase,Cash,136.26,Bank Account
+TXN01268,2025-08-26,Transport,Metro,Metro - transport purchase,UPI,631.54,Bank Account
+TXN00576,2025-08-27,Housing,Home Supplies,Home Supplies - housing purchase,UPI,13436.57,Cash Wallet
+TXN00374,2025-08-27,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1563.78,Credit Card
+TXN00498,2025-08-27,Education,Online Course,Online Course - education purchase,UPI,7000.0,Bank Account
+TXN00770,2025-08-29,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Credit Card,1042.42,Bank Account
+TXN01748,2025-08-29,Health,Pharmacy,Pharmacy - health purchase,Debit Card,1948.98,Bank Account
+TXN00913,2025-08-29,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,2236.82,Bank Account
+TXN01772,2025-08-29,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,10619.56,Credit Card
+TXN01718,2025-08-30,Entertainment,Concert,Concert - entertainment purchase,UPI,376.1,Bank Account
+TXN00379,2025-08-31,Entertainment,Cinema,Cinema - entertainment purchase,UPI,430.7,Cash Wallet
+TXN00634,2025-08-31,Shopping,Department Store,Department Store - shopping purchase,UPI,2359.9,Bank Account
+TXN00188,2025-09-01,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,2350.65,Bank Account
+TXN01285,2025-09-01,Housing,Maintenance,Maintenance - housing purchase,Debit Card,6891.88,Bank Account
+TXN01593,2025-09-02,Groceries,Local Market,Local Market - groceries purchase,Cash,1177.13,Cash Wallet
+TXN00758,2025-09-02,Entertainment,Game Store,Game Store - entertainment purchase,Credit Card,312.17,Bank Account
+TXN01017,2025-09-02,Shopping,Online Store,Online Store - shopping purchase,Debit Card,4759.03,Credit Card
+TXN01761,2025-09-03,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,242.05,Credit Card
+TXN00614,2025-09-03,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,1952.18,Credit Card
+TXN01468,2025-09-03,Transport,Ride App,Ride App - transport purchase,Credit Card,900.0,Credit Card
+TXN01159,2025-09-03,Groceries,Green Basket,Green Basket - groceries purchase,Cash,932.86,Bank Account
+TXN01385,2025-09-04,Dining,Quick Bites,Quick Bites - dining purchase,UPI,541.63,Bank Account
+TXN00094,2025-09-05,Dining,Food Street,Food Street - dining purchase,UPI,612.68,Bank Account
+TXN01066,2025-09-05,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,2051.29,Bank Account
+TXN01629,2025-09-05,Entertainment,Concert,Concert - entertainment purchase,Debit Card,1031.99,Cash Wallet
+TXN01173,2025-09-07,Dining,Cafe Corner,Cafe Corner - dining purchase,Net Banking,932.69,Bank Account
+TXN00809,2025-09-07,Entertainment,Concert,Concert - entertainment purchase,UPI,983.84,Credit Card
+TXN01094,2025-09-08,Groceries,Green Basket,Green Basket - groceries purchase,Cash,705.83,Cash Wallet
+TXN01352,2025-09-08,Health,Pharmacy,Pharmacy - health purchase,UPI,3657.64,Bank Account
+TXN01478,2025-09-09,Utilities,Water Bill,Water Bill - utilities purchase,Debit Card,1078.23,Credit Card
+TXN01774,2025-09-09,Housing,Monthly Rent,Monthly Rent - housing purchase,Net Banking,15762.78,Bank Account
+TXN01283,2025-09-09,Entertainment,Concert,Concert - entertainment purchase,Net Banking,703.31,Bank Account
+TXN01754,2025-09-09,Shopping,Electronics Store,Electronics Store - shopping purchase,Debit Card,6500.0,Bank Account
+TXN00552,2025-09-09,Utilities,Internet Provider,Internet Provider - utilities purchase,Credit Card,1239.29,Bank Account
+TXN01694,2025-09-10,Groceries,Green Basket,Green Basket - groceries purchase,UPI,359.59,Cash Wallet
+TXN01666,2025-09-10,Transport,Metro,Metro - transport purchase,Debit Card,900.0,Bank Account
+TXN01320,2025-09-11,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,243.09,Bank Account
+TXN00440,2025-09-11,Transport,Bus Pass,Bus Pass - transport purchase,UPI,222.3,Credit Card
+TXN01168,2025-09-12,Travel,Flight Booking,Flight Booking - travel purchase,UPI,6007.87,Bank Account
+TXN00957,2025-09-13,Dining,Food Street,Food Street - dining purchase,Debit Card,424.91,Bank Account
+TXN00027,2025-09-14,Groceries,Green Basket,Green Basket - groceries purchase,Credit Card,459.67,Bank Account
+TXN01302,2025-09-14,Education,Book Store,Book Store - education purchase,UPI,3892.02,Cash Wallet
+TXN00585,2025-09-15,Shopping,Online Store,Online Store - shopping purchase,Net Banking,2357.43,Bank Account
+TXN00942,2025-09-15,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1667.82,Bank Account
+TXN00164,2025-09-17,Utilities,Water Bill,Water Bill - utilities purchase,UPI,3500.0,Cash Wallet
+TXN00687,2025-09-17,Transport,Metro,Metro - transport purchase,UPI,447.28,Bank Account
+TXN01131,2025-09-17,Groceries,Local Market,Local Market - groceries purchase,Credit Card,528.31,Bank Account
+TXN01688,2025-09-18,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1593.94,Cash Wallet
+TXN00962,2025-09-18,Travel,Flight Booking,Flight Booking - travel purchase,UPI,8321.55,Credit Card
+TXN00144,2025-09-18,Shopping,Electronics Store,Electronics Store - shopping purchase,Cash,5064.2,Bank Account
+TXN01340,2025-09-18,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,2167.82,Bank Account
+TXN01495,2025-09-19,Utilities,Water Bill,Water Bill - utilities purchase,Cash,3500.0,Credit Card
+TXN01762,2025-09-19,Transport,Ride App,Ride App - transport purchase,UPI,170.36,Credit Card
+TXN00373,2025-09-19,Transport,Bus Pass,Bus Pass - transport purchase,UPI,370.07,Bank Account
+TXN00163,2025-09-19,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,669.97,Bank Account
+TXN00907,2025-09-20,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,2200.0,Bank Account
+TXN00960,2025-09-20,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,1046.88,Bank Account
+TXN01252,2025-09-20,Groceries,Green Basket,Green Basket - groceries purchase,UPI,650.59,Bank Account
+TXN00065,2025-09-20,Travel,Train Ticket,Train Ticket - travel purchase,Credit Card,15000.0,Credit Card
+TXN00496,2025-09-21,Groceries,Local Market,Local Market - groceries purchase,UPI,901.43,Cash Wallet
+TXN01719,2025-09-21,Entertainment,Game Store,Game Store - entertainment purchase,Cash,1334.08,Bank Account
+TXN01584,2025-09-22,Transport,Metro,Metro - transport purchase,UPI,213.45,Bank Account
+TXN01309,2025-09-22,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,920.39,Bank Account
+TXN01043,2025-09-22,Transport,Metro,Metro - transport purchase,Cash,476.1,Bank Account
+TXN01485,2025-09-22,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,2200.0,Bank Account
+TXN01635,2025-09-22,Travel,Hotel,Hotel - travel purchase,UPI,7006.98,Bank Account
+TXN00248,2025-09-23,Health,Pharmacy,Pharmacy - health purchase,Debit Card,862.54,Credit Card
+TXN01191,2025-09-23,Transport,Metro,Metro - transport purchase,Net Banking,285.25,Cash Wallet
+TXN01480,2025-09-23,Shopping,Online Store,Online Store - shopping purchase,Debit Card,2955.4,Credit Card
+TXN00624,2025-09-23,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Net Banking,654.39,Credit Card
+TXN00572,2025-09-23,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,535.7,Cash Wallet
+TXN01225,2025-09-23,Transport,Bus Pass,,Credit Card,625.29,Bank Account
+TXN00425,2025-09-24,Transport,Ride App,Ride App - transport purchase,Cash,144.78,Credit Card
+TXN00275,2025-09-24,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,6560.82,Bank Account
+TXN01079,2025-09-24,Shopping,Department Store,Department Store - shopping purchase,Debit Card,4162.41,Credit Card
+TXN00972,2025-09-24,Housing,Home Supplies,Home Supplies - housing purchase,Cash,9140.43,Bank Account
+TXN00929,2025-09-24,Education,Book Store,Book Store - education purchase,UPI,2185.12,Bank Account
+TXN00165,2025-09-24,Transport,Bus Pass,Bus Pass - transport purchase,UPI,900.0,Bank Account
+TXN00732,2025-09-25,Entertainment,Concert,Concert - entertainment purchase,Cash,1159.79,Bank Account
+TXN00464,2025-09-25,Groceries,Local Market,Local Market - groceries purchase,UPI,1351.14,Credit Card
+TXN01678,2025-09-25,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Net Banking,916.92,Bank Account
+TXN01374,2025-09-26,Entertainment,Cinema,Cinema - entertainment purchase,UPI,512.86,Bank Account
+TXN01185,2025-09-26,Shopping,Department Store,Department Store - shopping purchase,Cash,3320.86,Credit Card
+TXN01059,2025-09-28,Entertainment,Concert,Concert - entertainment purchase,Debit Card,1389.81,Bank Account
+TXN00777,2025-09-28,Shopping,Electronics Store,Electronics Store - shopping purchase,Debit Card,3513.07,Bank Account
+TXN00500,2025-09-29,Transport,Fuel Station,Fuel Station - transport purchase,Cash,900.0,Bank Account
+TXN01333,2025-09-29,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1462.37,Bank Account
+TXN01437,2025-09-30,Entertainment,Concert,Concert - entertainment purchase,Debit Card,855.73,Credit Card
+TXN00954,2025-10-01,Shopping,Online Store,Online Store - shopping purchase,UPI,2255.85,Bank Account
+TXN00547,2025-10-01,Education,Online Course,Online Course - education purchase,Debit Card,2274.07,Bank Account
+TXN01687,2025-10-01,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,95.46,Bank Account
+TXN01741,2025-10-02,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,955.37,Credit Card
+TXN01153,2025-10-02,Housing,Maintenance,Maintenance - housing purchase,UPI,12139.06,Cash Wallet
+TXN00994,2025-10-03,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,955.77,Credit Card
+TXN00473,2025-10-03,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,449.68,Credit Card
+TXN00238,2025-10-03,Transport,Ride App,Ride App - transport purchase,Credit Card,640.31,Credit Card
+TXN01496,2025-10-03,Travel,Travel Agency,Travel Agency - travel purchase,UPI,10272.81,Bank Account
+TXN00795,2025-10-03,Shopping,Online Store,Online Store - shopping purchase,UPI,6131.32,Bank Account
+TXN00621,2025-10-04,Dining,Quick Bites,Quick Bites - dining purchase,UPI,681.48,Bank Account
+TXN00407,2025-10-04,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,3500.0,Bank Account
+TXN00005,2025-10-04,Travel,Travel Agency,Travel Agency - travel purchase,UPI,4749.38,Bank Account
+TXN00633,2025-10-04,Utilities,Internet Provider,Internet Provider - utilities purchase,Cash,615.36,Cash Wallet
+TXN01444,2025-10-04,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,1058.92,Cash Wallet
+TXN01100,2025-10-04,Housing,Home Supplies,Home Supplies - housing purchase,UPI,7103.47,Bank Account
+TXN00435,2025-10-04,Travel,Train Ticket,Train Ticket - travel purchase,Debit Card,9374.54,Credit Card
+TXN00155,2025-10-05,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,1284.52,Bank Account
+TXN00091,2025-10-05,Utilities,Electricity Board,Electricity Board - utilities purchase,Debit Card,2667.98,Bank Account
+TXN00354,2025-10-05,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1781.94,Cash Wallet
+TXN00140,2025-10-06,Groceries,Local Market,Local Market - groceries purchase,UPI,2200.0,Bank Account
+TXN00082,2025-10-06,Health,Clinic,Clinic - health purchase,UPI,4060.38,Credit Card
+TXN01039,2025-10-06,Dining,Food Street,Food Street - dining purchase,UPI,850.29,Bank Account
+TXN01418,2025-10-07,Health,Pharmacy,Pharmacy - health purchase,Debit Card,3682.37,Cash Wallet
+TXN00756,2025-10-07,Transport,Bus Pass,Bus Pass - transport purchase,Net Banking,900.0,Bank Account
+TXN00004,2025-10-08,Housing,Maintenance,Maintenance - housing purchase,UPI,9849.64,Bank Account
+TXN00298,2025-10-08,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,4977.84,Credit Card
+TXN01220,2025-10-08,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,1332.3,Bank Account
+TXN00121,2025-10-08,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,1050.25,Cash Wallet
+TXN00285,2025-10-09,Dining,Food Street,Food Street - dining purchase,Cash,465.44,Bank Account
+TXN00935,2025-10-10,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,592.69,Credit Card
+TXN00800,2025-10-10,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,1219.38,Credit Card
+TXN00030,2025-10-10,Shopping,Department Store,Department Store - shopping purchase,UPI,3124.5,Bank Account
+TXN01729,2025-10-11,Dining,Quick Bites,Quick Bites - dining purchase,UPI,533.78,Credit Card
+TXN01263,2025-10-11,Transport,Ride App,Ride App - transport purchase,Debit Card,375.53,Credit Card
+TXN01293,2025-10-11,Shopping,Department Store,Department Store - shopping purchase,UPI,4221.42,Bank Account
+TXN00923,2025-10-12,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,7185.2,Credit Card
+TXN00689,2025-10-12,Dining,Quick Bites,Quick Bites - dining purchase,Credit Card,373.01,Credit Card
+TXN00047,2025-10-12,Shopping,Department Store,Department Store - shopping purchase,Credit Card,965.98,Credit Card
+TXN00186,2025-10-12,Shopping,Online Store,Online Store - shopping purchase,Credit Card,4600.11,Bank Account
+TXN00869,2025-10-12,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,2200.0,Bank Account
+TXN01643,2025-10-13,Transport,Ride App,Ride App - transport purchase,Cash,406.62,Bank Account
+TXN01184,2025-10-13,Dining,Food Street,Food Street - dining purchase,UPI,422.64,Credit Card
+TXN00219,2025-10-13,Dining,Food Street,Food Street - dining purchase,UPI,218.3,Cash Wallet
+TXN01092,2025-10-13,Shopping,Online Store,Online Store - shopping purchase,UPI,6500.0,Bank Account
+TXN00267,2025-10-13,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Cash,836.44,Bank Account
+TXN00214,2025-10-14,Education,Book Store,Book Store - education purchase,Credit Card,4145.54,Bank Account
+TXN01473,2025-10-14,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,839.81,Cash Wallet
+TXN01057,2025-10-14,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,2532.65,Bank Account
+TXN01319,2025-10-14,Education,Online Course,Online Course - education purchase,UPI,5402.55,Cash Wallet
+TXN01373,2025-10-14,Shopping,Online Store,Online Store - shopping purchase,Debit Card,5353.08,Bank Account
+TXN00883,2025-10-14,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,636.25,Bank Account
+TXN00031,2025-10-15,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,379.28,Bank Account
+TXN01331,2025-10-15,Transport,Bus Pass,Bus Pass - transport purchase,UPI,419.42,Credit Card
+TXN00020,2025-10-15,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,2189.95,Bank Account
+TXN01566,2025-10-17,Shopping,Electronics Store,,Debit Card,1793.86,Cash Wallet
+TXN00833,2025-10-17,Shopping,Department Store,Department Store - shopping purchase,Net Banking,3555.33,Bank Account
+TXN00506,2025-10-17,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,1005.39,Credit Card
+TXN01368,2025-10-17,Housing,Home Supplies,Home Supplies - housing purchase,Debit Card,18000.0,Bank Account
+TXN00792,2025-10-17,Education,Training Centre,Training Centre - education purchase,UPI,1925.35,Bank Account
+TXN00222,2025-10-18,Groceries,Green Basket,Green Basket - groceries purchase,UPI,679.65,Credit Card
+TXN01458,2025-10-18,Housing,Maintenance,Maintenance - housing purchase,UPI,18000.0,Credit Card
+TXN01743,2025-10-18,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,3500.0,Credit Card
+TXN00537,2025-10-18,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,379.61,Bank Account
+TXN00871,2025-10-19,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,2487.28,Credit Card
+TXN00205,2025-10-19,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,2200.0,Bank Account
+TXN00905,2025-10-20,Shopping,Online Store,Online Store - shopping purchase,Debit Card,2354.98,Credit Card
+TXN01555,2025-10-20,Utilities,Electricity Board,Electricity Board - utilities purchase,Debit Card,2551.12,Bank Account
+TXN00916,2025-10-20,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,2735.49,Bank Account
+TXN00114,2025-10-20,Travel,Travel Agency,Travel Agency - travel purchase,Credit Card,2717.05,Cash Wallet
+TXN00798,2025-10-20,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Credit Card,2209.77,Bank Account
+TXN00335,2025-10-21,Dining,Food Street,Food Street - dining purchase,Debit Card,497.87,Bank Account
+TXN01213,2025-10-21,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,335.6,Bank Account
+TXN01520,2025-10-21,Education,Training Centre,Training Centre - education purchase,Cash,2097.31,Bank Account
+TXN00647,2025-10-21,Dining,Food Street,Food Street - dining purchase,UPI,544.3,Credit Card
+TXN00939,2025-10-22,Health,Clinic,Clinic - health purchase,Cash,469.64,Cash Wallet
+TXN00176,2025-10-22,Transport,Metro,Metro - transport purchase,Debit Card,900.0,Cash Wallet
+TXN00485,2025-10-23,Travel,Hotel,Hotel - travel purchase,Debit Card,4923.05,Bank Account
+TXN00073,2025-10-23,Groceries,Daily Needs,Daily Needs - groceries purchase,Cash,1898.02,Bank Account
+TXN00231,2025-10-23,Travel,Train Ticket,Train Ticket - travel purchase,Debit Card,4720.11,Bank Account
+TXN00612,2025-10-23,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,796.38,Credit Card
+TXN01248,2025-10-24,Travel,Train Ticket,Train Ticket - travel purchase,Debit Card,3475.31,Bank Account
+TXN00710,2025-10-25,Housing,Maintenance,Maintenance - housing purchase,Debit Card,7730.26,Credit Card
+TXN00054,2025-10-25,Groceries,Local Market,Local Market - groceries purchase,UPI,2000.36,Bank Account
+TXN01075,2025-10-25,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,1324.27,Bank Account
+TXN01499,2025-10-26,Groceries,Local Market,Local Market - groceries purchase,Debit Card,1802.79,Bank Account
+TXN00277,2025-10-26,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,6907.34,Cash Wallet
+TXN01768,2025-10-26,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,2190.25,Bank Account
+TXN00474,2025-10-26,Health,Clinic,Clinic - health purchase,Debit Card,1423.92,Bank Account
+TXN01697,2025-10-27,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Net Banking,1234.34,Cash Wallet
+TXN01712,2025-10-27,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Debit Card,1454.48,Bank Account
+TXN01102,2025-10-27,Housing,Home Supplies,Home Supplies - housing purchase,Debit Card,5662.19,Credit Card
+TXN00070,2025-10-27,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,491.54,Bank Account
+TXN00367,2025-10-27,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,254.33,Bank Account
+TXN00124,2025-10-28,Utilities,Water Bill,Water Bill - utilities purchase,Net Banking,1929.75,Cash Wallet
+TXN01431,2025-10-28,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1382.54,Credit Card
+TXN00109,2025-10-28,Shopping,Online Store,Online Store - shopping purchase,UPI,6500.0,Credit Card
+TXN01789,2025-10-29,Dining,Cafe Corner,Cafe Corner - dining purchase,Cash,1169.7,Bank Account
+TXN00944,2025-10-30,Education,Book Store,Book Store - education purchase,Debit Card,3537.62,Bank Account
+TXN00290,2025-10-30,Shopping,Electronics Store,Electronics Store - shopping purchase,Cash,5382.46,Cash Wallet
+TXN00974,2025-10-30,Travel,Travel Agency,Travel Agency - travel purchase,UPI,5542.16,Bank Account
+TXN01420,2025-10-31,Education,Book Store,Book Store - education purchase,Debit Card,2533.99,Bank Account
+TXN00519,2025-10-31,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Cash,858.8,Bank Account
+TXN01541,2025-10-31,Travel,Train Ticket,Train Ticket - travel purchase,UPI,8663.93,Cash Wallet
+TXN00076,2025-10-31,Utilities,Water Bill,Water Bill - utilities purchase,Net Banking,1169.61,Bank Account
+TXN00709,2025-10-31,Transport,Fuel Station,Fuel Station - transport purchase,UPI,443.02,Credit Card
+TXN00973,2025-11-01,Travel,Train Ticket,Train Ticket - travel purchase,Cash,7466.61,Bank Account
+TXN00622,2025-11-01,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,8937.05,Credit Card
+TXN01795,2025-11-01,Entertainment,Cinema,Cinema - entertainment purchase,Cash,828.0,Bank Account
+TXN01202,2025-11-01,Groceries,Green Basket,Green Basket - groceries purchase,UPI,427.08,Bank Account
+TXN00785,2025-11-02,Groceries,Local Market,Local Market - groceries purchase,UPI,1017.68,Bank Account
+TXN01799,2025-11-02,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,363.04,Cash Wallet
+TXN00768,2025-11-02,Dining,Quick Bites,Quick Bites - dining purchase,Cash,691.14,Bank Account
+TXN01101,2025-11-03,Entertainment,Concert,Concert - entertainment purchase,Debit Card,250.71,Credit Card
+TXN01508,2025-11-03,Dining,Food Street,Food Street - dining purchase,Net Banking,248.37,Bank Account
+TXN00644,2025-11-03,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,747.43,Bank Account
+TXN00276,2025-11-04,Shopping,Online Store,Online Store - shopping purchase,Debit Card,1486.5,Credit Card
+TXN01146,2025-11-04,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,2040.39,Bank Account
+TXN01517,2025-11-04,Dining,Quick Bites,Quick Bites - dining purchase,Cash,1174.86,Bank Account
+TXN00282,2025-11-07,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1939.45,Bank Account
+TXN00729,2025-11-08,Dining,Food Street,Food Street - dining purchase,Net Banking,528.15,Bank Account
+TXN00444,2025-11-08,Utilities,Internet Provider,Internet Provider - utilities purchase,Credit Card,520.84,Cash Wallet
+TXN01031,2025-11-08,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,2585.12,Cash Wallet
+TXN01244,2025-11-09,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,1693.09,Credit Card
+TXN01492,2025-11-09,Shopping,Online Store,Online Store - shopping purchase,Credit Card,4689.24,Bank Account
+TXN00651,2025-11-09,Groceries,Green Basket,Green Basket - groceries purchase,UPI,946.99,Cash Wallet
+TXN01116,2025-11-09,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,7612.21,Bank Account
+TXN01477,2025-11-09,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,557.31,Bank Account
+TXN00718,2025-11-10,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,1671.0,Cash Wallet
+TXN00284,2025-11-10,Dining,Food Street,Food Street - dining purchase,Debit Card,798.93,Bank Account
+TXN00235,2025-11-11,Travel,Travel Agency,Travel Agency - travel purchase,UPI,3813.88,Bank Account
+TXN01120,2025-11-11,Transport,Fuel Station,Fuel Station - transport purchase,Cash,126.9,Credit Card
+TXN00563,2025-11-11,Dining,Cafe Corner,Cafe Corner - dining purchase,Cash,1126.57,Bank Account
+TXN00252,2025-11-12,Entertainment,Cinema,Cinema - entertainment purchase,Cash,961.35,Credit Card
+TXN01549,2025-11-12,Utilities,Water Bill,Water Bill - utilities purchase,UPI,3164.21,Bank Account
+TXN00203,2025-11-12,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,1634.47,Bank Account
+TXN01519,2025-11-12,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Net Banking,619.46,Bank Account
+TXN01018,2025-11-12,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,1531.11,Bank Account
+TXN00185,2025-11-13,Travel,Flight Booking,Flight Booking - travel purchase,Debit Card,12917.31,Cash Wallet
+TXN01353,2025-11-13,Transport,Metro,Metro - transport purchase,Credit Card,484.99,Bank Account
+TXN01356,2025-11-14,Housing,Monthly Rent,Monthly Rent - housing purchase,Cash,10144.11,Credit Card
+TXN00055,2025-11-14,Education,Online Course,Online Course - education purchase,UPI,2234.77,Bank Account
+TXN00183,2025-11-14,Education,Online Course,Online Course - education purchase,Net Banking,945.45,Cash Wallet
+TXN00453,2025-11-15,Dining,Quick Bites,Quick Bites - dining purchase,Net Banking,1400.0,Bank Account
+TXN00405,2025-11-15,Entertainment,Concert,Concert - entertainment purchase,Debit Card,257.12,Credit Card
+TXN01162,2025-11-15,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,944.64,Bank Account
+TXN00406,2025-11-16,Education,Training Centre,Training Centre - education purchase,Debit Card,7000.0,Credit Card
+TXN00021,2025-11-16,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1320.71,Bank Account
+TXN00180,2025-11-16,Transport,Fuel Station,Fuel Station - transport purchase,UPI,900.0,Credit Card
+TXN01091,2025-11-17,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1104.68,Bank Account
+TXN01053,2025-11-17,Health,Pharmacy,Pharmacy - health purchase,Debit Card,3696.91,Credit Card
+TXN01379,2025-11-17,Entertainment,Game Store,Game Store - entertainment purchase,UPI,290.31,Bank Account
+TXN01737,2025-11-17,Housing,Maintenance,Maintenance - housing purchase,Credit Card,17785.96,Credit Card
+TXN00556,2025-11-18,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1588.7,Bank Account
+TXN01767,2025-11-18,Entertainment,Concert,Concert - entertainment purchase,UPI,779.75,Bank Account
+TXN00667,2025-11-18,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1219.28,Bank Account
+TXN00876,2025-11-18,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,6945.7,Cash Wallet
+TXN01008,2025-11-18,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,835.45,Credit Card
+TXN00115,2025-11-19,Transport,Metro,Metro - transport purchase,UPI,900.0,Bank Account
+TXN00159,2025-11-19,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2220.06,Bank Account
+TXN01152,2025-11-19,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1534.68,Bank Account
+TXN00629,2025-11-19,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,2200.0,Credit Card
+TXN01217,2025-11-20,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,428.1,Cash Wallet
+TXN01618,2025-11-20,Dining,Quick Bites,Quick Bites - dining purchase,UPI,447.91,Bank Account
+TXN00420,2025-11-20,Entertainment,Cinema,Cinema - entertainment purchase,Debit Card,578.84,Cash Wallet
+TXN00940,2025-11-21,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,4730.46,Cash Wallet
+TXN01241,2025-11-21,Entertainment,Game Store,Game Store - entertainment purchase,Cash,1340.17,Cash Wallet
+TXN01490,2025-11-21,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1748.0,Bank Account
+TXN01051,2025-11-21,Travel,Travel Agency,Travel Agency - travel purchase,UPI,5192.35,Bank Account
+TXN00445,2025-11-21,Travel,Hotel,Hotel - travel purchase,Net Banking,15000.0,Cash Wallet
+TXN00897,2025-11-21,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2675.19,Bank Account
+TXN01000,2025-11-24,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,409.03,Bank Account
+TXN01442,2025-11-24,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Credit Card,739.35,Bank Account
+TXN00017,2025-11-24,Groceries,Local Market,Local Market - groceries purchase,Cash,2200.0,Bank Account
+TXN01296,2025-11-25,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,2821.66,Bank Account
+TXN00803,2025-11-25,Transport,Ride App,Ride App - transport purchase,Debit Card,241.5,Cash Wallet
+TXN01207,2025-11-25,Shopping,Online Store,Online Store - shopping purchase,Debit Card,2815.01,Bank Account
+TXN01583,2025-11-25,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,2200.0,Bank Account
+TXN00608,2025-11-25,Housing,Monthly Rent,Monthly Rent - housing purchase,Cash,8955.03,Bank Account
+TXN00344,2025-11-25,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1026.65,Bank Account
+TXN01680,2025-11-25,Education,Training Centre,Training Centre - education purchase,UPI,1525.92,Cash Wallet
+TXN01165,2025-11-26,Transport,Metro,Metro - transport purchase,UPI,237.12,Cash Wallet
+TXN01720,2025-11-26,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,858.71,Credit Card
+TXN01460,2025-11-26,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1552.15,Bank Account
+TXN00549,2025-11-26,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,1149.52,Bank Account
+TXN00717,2025-11-27,Groceries,Local Market,Local Market - groceries purchase,Debit Card,1942.9,Bank Account
+TXN01015,2025-11-28,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,597.43,Bank Account
+TXN00366,2025-11-28,Health,Clinic,Clinic - health purchase,Cash,1790.21,Bank Account
+TXN01010,2025-11-28,Entertainment,Game Store,Game Store - entertainment purchase,Net Banking,600.1,Bank Account
+TXN01686,2025-11-28,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,9728.93,Bank Account
+TXN00449,2025-11-29,Transport,Metro,Metro - transport purchase,UPI,686.3,Bank Account
+TXN00296,2025-11-29,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,258.3,Bank Account
+TXN00701,2025-11-29,Education,Training Centre,Training Centre - education purchase,UPI,2759.34,Bank Account
+TXN01800,2025-11-30,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,734.13,Bank Account
+TXN00893,2025-11-30,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,585.52,Bank Account
+TXN00712,2025-11-30,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,1839.0,Bank Account
+TXN00679,2025-11-30,Travel,Travel Agency,Travel Agency - travel purchase,UPI,15000.0,Bank Account
+TXN00578,2025-12-01,Travel,Travel Agency,Travel Agency - travel purchase,Debit Card,6551.54,Bank Account
+TXN01311,2025-12-01,Travel,Train Ticket,Train Ticket - travel purchase,UPI,11041.96,Credit Card
+TXN00997,2025-12-02,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,4735.48,Credit Card
+TXN00011,2025-12-02,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,2940.28,Bank Account
+TXN01665,2025-12-02,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,3500.0,Credit Card
+TXN01074,2025-12-02,Transport,Fuel Station,Fuel Station - transport purchase,UPI,399.02,Bank Account
+TXN01195,2025-12-02,Entertainment,Game Store,Game Store - entertainment purchase,Cash,387.83,Credit Card
+TXN00995,2025-12-04,Transport,Metro,Metro - transport purchase,UPI,679.33,Bank Account
+TXN01501,2025-12-04,Utilities,Water Bill,Water Bill - utilities purchase,UPI,372.95,Bank Account
+TXN01392,2025-12-04,Shopping,Department Store,Department Store - shopping purchase,Debit Card,6500.0,Cash Wallet
+TXN00507,2025-12-05,Travel,Travel Agency,Travel Agency - travel purchase,UPI,8476.97,Bank Account
+TXN00488,2025-12-05,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,421.35,Credit Card
+TXN01299,2025-12-05,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,237.55,Bank Account
+TXN00656,2025-12-06,Health,Pharmacy,Pharmacy - health purchase,UPI,1331.56,Bank Account
+TXN01147,2025-12-06,Housing,Home Supplies,Home Supplies - housing purchase,Net Banking,18000.0,Bank Account
+TXN01164,2025-12-06,Groceries,Local Market,Local Market - groceries purchase,Cash,1163.53,Credit Card
+TXN01669,2025-12-06,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,3800.25,Bank Account
+TXN00747,2025-12-06,Dining,Food Street,Food Street - dining purchase,UPI,601.37,Credit Card
+TXN00351,2025-12-07,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1594.68,Bank Account
+TXN01335,2025-12-07,Shopping,Online Store,Online Store - shopping purchase,UPI,5339.95,Credit Card
+TXN01553,2025-12-07,Shopping,Department Store,Department Store - shopping purchase,Cash,3836.84,Bank Account
+TXN01341,2025-12-07,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,647.78,Cash Wallet
+TXN01725,2025-12-07,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,742.01,Bank Account
+TXN00648,2025-12-08,Shopping,Electronics Store,Electronics Store - shopping purchase,Net Banking,3238.42,Credit Card
+TXN00561,2025-12-09,Health,Clinic,Clinic - health purchase,Debit Card,2667.66,Bank Account
+TXN01636,2025-12-09,Utilities,Water Bill,Water Bill - utilities purchase,Debit Card,1425.56,Credit Card
+TXN00606,2025-12-09,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,10853.51,Cash Wallet
+TXN00931,2025-12-09,Housing,Home Supplies,Home Supplies - housing purchase,UPI,14445.87,Bank Account
+TXN01140,2025-12-11,Health,Diagnostic Centre,,Debit Card,4629.76,Credit Card
+TXN01259,2025-12-11,Transport,Metro,Metro - transport purchase,Credit Card,403.3,Credit Card
+TXN00877,2025-12-11,Shopping,Online Store,Online Store - shopping purchase,UPI,2955.84,Bank Account
+TXN00539,2025-12-11,Education,Online Course,Online Course - education purchase,Credit Card,3756.69,Bank Account
+TXN00289,2025-12-12,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,2054.21,Bank Account
+TXN01380,2025-12-12,Shopping,Online Store,Online Store - shopping purchase,UPI,1731.51,Bank Account
+TXN00927,2025-12-12,Housing,Monthly Rent,Monthly Rent - housing purchase,Cash,6541.29,Cash Wallet
+TXN00917,2025-12-13,Health,Pharmacy,Pharmacy - health purchase,Debit Card,3062.55,Bank Account
+TXN00305,2025-12-13,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,355.66,Credit Card
+TXN00295,2025-12-14,Entertainment,Game Store,Game Store - entertainment purchase,UPI,319.41,Credit Card
+TXN00807,2025-12-14,Groceries,Local Market,Local Market - groceries purchase,Net Banking,258.71,Bank Account
+TXN00029,2025-12-14,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,2842.33,Cash Wallet
+TXN00789,2025-12-14,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,3500.0,Credit Card
+TXN00331,2025-12-15,Dining,Food Street,Food Street - dining purchase,UPI,722.16,Bank Account
+TXN00229,2025-12-15,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Cash,1707.06,Bank Account
+TXN00057,2025-12-15,Health,Clinic,Clinic - health purchase,UPI,1608.98,Cash Wallet
+TXN01577,2025-12-16,Groceries,Local Market,Local Market - groceries purchase,UPI,946.68,Credit Card
+TXN00879,2025-12-16,Transport,Ride App,Ride App - transport purchase,Credit Card,376.82,Bank Account
+TXN00983,2025-12-16,Transport,Metro,Metro - transport purchase,UPI,900.0,Credit Card
+TXN01323,2025-12-17,Transport,Bus Pass,Bus Pass - transport purchase,UPI,280.63,Credit Card
+TXN00992,2025-12-17,Shopping,Online Store,Online Store - shopping purchase,UPI,1270.22,Bank Account
+TXN01497,2025-12-18,Dining,Food Street,Food Street - dining purchase,UPI,484.91,Bank Account
+TXN01222,2025-12-19,Groceries,Local Market,Local Market - groceries purchase,Credit Card,1675.1,Cash Wallet
+TXN00762,2025-12-19,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,3966.37,Bank Account
+TXN00655,2025-12-19,Dining,Food Street,Food Street - dining purchase,UPI,405.54,Cash Wallet
+TXN01625,2025-12-20,Education,Book Store,Book Store - education purchase,UPI,6801.26,Bank Account
+TXN00330,2025-12-20,Groceries,Local Market,Local Market - groceries purchase,UPI,943.46,Bank Account
+TXN01365,2025-12-20,Utilities,Internet Provider,Internet Provider - utilities purchase,Cash,1276.55,Credit Card
+TXN00308,2025-12-20,Housing,Home Supplies,Home Supplies - housing purchase,UPI,15483.79,Credit Card
+TXN00132,2025-12-20,Shopping,Department Store,Department Store - shopping purchase,Debit Card,874.33,Credit Card
+TXN00034,2025-12-20,Health,Clinic,Clinic - health purchase,UPI,1899.76,Bank Account
+TXN01664,2025-12-20,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,8951.46,Bank Account
+TXN01084,2025-12-21,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,841.51,Cash Wallet
+TXN01258,2025-12-21,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,1400.0,Bank Account
+TXN00113,2025-12-21,Housing,Maintenance,Maintenance - housing purchase,Debit Card,18000.0,Credit Card
+TXN01129,2025-12-21,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,2258.05,Credit Card
+TXN00456,2025-12-21,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,1863.9,Credit Card
+TXN00755,2025-12-21,Education,Book Store,Book Store - education purchase,Credit Card,2090.29,Credit Card
+TXN00158,2025-12-22,Dining,Food Street,Food Street - dining purchase,UPI,174.59,Credit Card
+TXN01565,2025-12-22,Dining,Food Street,Food Street - dining purchase,UPI,1400.0,Credit Card
+TXN01003,2025-12-23,Entertainment,Game Store,Game Store - entertainment purchase,Credit Card,536.31,Bank Account
+TXN00134,2025-12-23,Entertainment,Concert,Concert - entertainment purchase,UPI,837.46,Bank Account
+TXN01387,2025-12-24,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,949.87,Credit Card
+TXN01434,2025-12-25,Groceries,Daily Needs,Daily Needs - groceries purchase,Net Banking,1556.46,Credit Card
+TXN01412,2025-12-25,Groceries,Local Market,Local Market - groceries purchase,Cash,583.63,Bank Account
+TXN00126,2025-12-27,Dining,Quick Bites,Quick Bites - dining purchase,UPI,534.66,Bank Account
+TXN00706,2025-12-27,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,933.84,Credit Card
+TXN00079,2025-12-27,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2419.95,Cash Wallet
+TXN00131,2025-12-27,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2615.29,Credit Card
+TXN01029,2025-12-27,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1942.34,Bank Account
+TXN00980,2025-12-27,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2003.44,Bank Account
+TXN01672,2025-12-28,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1215.1,Credit Card
+TXN00437,2025-12-28,Dining,Food Street,Food Street - dining purchase,Net Banking,816.24,Bank Account
+TXN01189,2025-12-28,Shopping,Online Store,Online Store - shopping purchase,UPI,870.1,Bank Account
+TXN00116,2025-12-29,Dining,Quick Bites,Quick Bites - dining purchase,UPI,925.07,Bank Account
+TXN01728,2025-12-30,Transport,Bus Pass,Bus Pass - transport purchase,Cash,454.5,Bank Account
+TXN01544,2025-12-30,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2976.1,Credit Card
+TXN01759,2025-12-31,Groceries,Daily Needs,Daily Needs - groceries purchase,Net Banking,408.31,Bank Account
+TXN00288,2025-12-31,Travel,Hotel,Hotel - travel purchase,UPI,9123.25,Bank Account
+TXN00570,2025-12-31,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,1256.81,Cash Wallet
+TXN01631,2026-01-01,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,2645.88,Bank Account
+TXN01455,2026-01-01,Transport,Ride App,Ride App - transport purchase,Cash,428.32,Bank Account
+TXN00708,2026-01-01,Dining,Quick Bites,Quick Bites - dining purchase,UPI,435.11,Bank Account
+TXN00978,2026-01-01,Transport,Metro,Metro - transport purchase,Debit Card,900.0,Bank Account
+TXN00922,2026-01-01,Housing,Maintenance,Maintenance - housing purchase,UPI,8232.3,Bank Account
+TXN01344,2026-01-02,Dining,Food Street,Food Street - dining purchase,Debit Card,991.69,Bank Account
+TXN00129,2026-01-02,Shopping,Online Store,Online Store - shopping purchase,Net Banking,1052.3,Credit Card
+TXN01765,2026-01-03,Housing,Home Supplies,Home Supplies - housing purchase,Debit Card,18000.0,Credit Card
+TXN00535,2026-01-04,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,976.98,Cash Wallet
+TXN00930,2026-01-04,Housing,Monthly Rent,Monthly Rent - housing purchase,Net Banking,16260.84,Cash Wallet
+TXN01627,2026-01-04,Education,Training Centre,Training Centre - education purchase,UPI,3011.54,Bank Account
+TXN00228,2026-01-05,Shopping,Department Store,Department Store - shopping purchase,UPI,1129.07,Bank Account
+TXN00597,2026-01-05,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,1173.4,Bank Account
+TXN01760,2026-01-06,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,1400.0,Credit Card
+TXN00424,2026-01-06,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Debit Card,2303.05,Cash Wallet
+TXN00266,2026-01-06,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1253.21,Credit Card
+TXN00677,2026-01-06,Health,Clinic,Clinic - health purchase,Debit Card,2579.21,Bank Account
+TXN01161,2026-01-07,Education,Online Course,Online Course - education purchase,UPI,3291.49,Bank Account
+TXN01628,2026-01-08,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1324.09,Cash Wallet
+TXN01791,2026-01-08,Education,Book Store,Book Store - education purchase,UPI,3100.55,Credit Card
+TXN00242,2026-01-08,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Credit Card,3129.24,Bank Account
+TXN01415,2026-01-09,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,568.36,Credit Card
+TXN00985,2026-01-10,Transport,Metro,Metro - transport purchase,UPI,568.1,Bank Account
+TXN01156,2026-01-10,Housing,Home Supplies,Home Supplies - housing purchase,UPI,18000.0,Cash Wallet
+TXN00260,2026-01-10,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Debit Card,1256.91,Cash Wallet
+TXN01118,2026-01-10,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Credit Card,2200.0,Credit Card
+TXN00786,2026-01-11,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,1312.0,Credit Card
+TXN00966,2026-01-11,Entertainment,Game Store,Game Store - entertainment purchase,Cash,432.5,Credit Card
+TXN01423,2026-01-11,Transport,Bus Pass,Bus Pass - transport purchase,UPI,194.92,Cash Wallet
+TXN01318,2026-01-12,Education,Online Course,Online Course - education purchase,UPI,4998.41,Bank Account
+TXN00698,2026-01-12,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,645.81,Bank Account
+TXN01396,2026-01-12,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,870.03,Cash Wallet
+TXN00981,2026-01-12,Housing,Home Supplies,Home Supplies - housing purchase,Net Banking,14877.3,Bank Account
+TXN01546,2026-01-12,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Debit Card,1605.66,Credit Card
+TXN00548,2026-01-13,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,3500.0,Credit Card
+TXN00915,2026-01-13,Entertainment,Cinema,Cinema - entertainment purchase,UPI,482.64,Bank Account
+TXN00270,2026-01-13,Groceries,Green Basket,Green Basket - groceries purchase,Credit Card,1260.72,Credit Card
+TXN01608,2026-01-14,Education,Training Centre,Training Centre - education purchase,Credit Card,5690.22,Bank Account
+TXN00688,2026-01-14,Utilities,Electricity Board,Electricity Board - utilities purchase,Debit Card,598.68,Bank Account
+TXN01644,2026-01-15,Dining,Quick Bites,Quick Bites - dining purchase,UPI,863.01,Cash Wallet
+TXN01350,2026-01-15,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,481.36,Credit Card
+TXN00520,2026-01-15,Travel,Travel Agency,Travel Agency - travel purchase,UPI,9668.54,Bank Account
+TXN01654,2026-01-16,Travel,Train Ticket,Train Ticket - travel purchase,UPI,7944.83,Bank Account
+TXN00455,2026-01-16,Entertainment,Cinema,Cinema - entertainment purchase,UPI,485.32,Bank Account
+TXN00468,2026-01-16,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,1112.84,Credit Card
+TXN00531,2026-01-17,Education,Book Store,Book Store - education purchase,Cash,1765.19,Bank Account
+TXN01505,2026-01-17,Health,Clinic,Clinic - health purchase,Debit Card,1586.37,Credit Card
+TXN00665,2026-01-17,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,2685.05,Bank Account
+TXN01188,2026-01-17,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,653.01,Bank Account
+TXN00720,2026-01-18,Groceries,Green Basket,Green Basket - groceries purchase,UPI,543.49,Bank Account
+TXN00394,2026-01-18,Transport,Ride App,Ride App - transport purchase,UPI,506.67,Bank Account
+TXN01048,2026-01-19,Education,Training Centre,Training Centre - education purchase,UPI,3864.68,Bank Account
+TXN00967,2026-01-19,Education,Online Course,Online Course - education purchase,Credit Card,2906.29,Bank Account
+TXN01764,2026-01-19,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,688.35,Bank Account
+TXN01580,2026-01-19,Education,Online Course,Online Course - education purchase,Cash,6245.52,Bank Account
+TXN00494,2026-01-20,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1472.37,Credit Card
+TXN00137,2026-01-20,Transport,Ride App,Ride App - transport purchase,UPI,900.0,Cash Wallet
+TXN01568,2026-01-20,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1139.0,Bank Account
+TXN01525,2026-01-21,Entertainment,Game Store,Game Store - entertainment purchase,UPI,565.57,Bank Account
+TXN00625,2026-01-21,Shopping,Electronics Store,Electronics Store - shopping purchase,Net Banking,1210.94,Cash Wallet
+TXN00490,2026-01-22,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,628.46,Bank Account
+TXN00850,2026-01-22,Housing,Maintenance,Maintenance - housing purchase,Cash,10141.31,Credit Card
+TXN00193,2026-01-23,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,663.79,Bank Account
+TXN01181,2026-01-23,Transport,Metro,Metro - transport purchase,UPI,302.56,Bank Account
+TXN01758,2026-01-24,Utilities,Electricity Board,Electricity Board - utilities purchase,Debit Card,1020.05,Cash Wallet
+TXN01305,2026-01-25,Transport,Metro,Metro - transport purchase,Debit Card,669.6,Bank Account
+TXN01662,2026-01-25,Shopping,Department Store,Department Store - shopping purchase,Credit Card,1375.9,Cash Wallet
+TXN00956,2026-01-25,Travel,Hotel,Hotel - travel purchase,Net Banking,12452.61,Credit Card
+TXN00767,2026-01-26,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Credit Card,470.21,Cash Wallet
+TXN00896,2026-01-26,Dining,Food Street,Food Street - dining purchase,Credit Card,734.96,Bank Account
+TXN00269,2026-01-26,Health,Pharmacy,Pharmacy - health purchase,Credit Card,2448.15,Bank Account
+TXN01135,2026-01-27,Groceries,Local Market,Local Market - groceries purchase,UPI,2200.0,Credit Card
+TXN00672,2026-01-27,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,1905.64,Credit Card
+TXN00953,2026-01-28,Housing,Maintenance,Maintenance - housing purchase,UPI,10555.93,Credit Card
+TXN00323,2026-01-28,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1771.54,Cash Wallet
+TXN00601,2026-01-29,Shopping,Online Store,Online Store - shopping purchase,UPI,2997.61,Bank Account
+TXN00900,2026-01-29,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Debit Card,334.01,Bank Account
+TXN00702,2026-01-29,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1716.07,Bank Account
+TXN00987,2026-01-29,Groceries,Local Market,Local Market - groceries purchase,UPI,2156.13,Cash Wallet
+TXN01554,2026-01-30,Health,Pharmacy,Pharmacy - health purchase,Debit Card,448.88,Credit Card
+TXN01397,2026-01-31,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,4532.41,Bank Account
+TXN01540,2026-01-31,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,4970.15,Cash Wallet
+TXN01200,2026-01-31,Dining,Food Street,Food Street - dining purchase,UPI,255.29,Credit Card
+TXN01661,2026-01-31,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,1383.16,Bank Account
+TXN01290,2026-02-01,Education,Online Course,Online Course - education purchase,Debit Card,2289.46,Credit Card
+TXN01638,2026-02-01,Transport,Bus Pass,Bus Pass - transport purchase,UPI,405.0,Bank Account
+TXN00675,2026-02-01,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1840.66,Credit Card
+TXN00343,2026-02-01,Transport,Ride App,Ride App - transport purchase,UPI,474.99,Bank Account
+TXN01211,2026-02-02,Housing,Home Supplies,Home Supplies - housing purchase,UPI,9421.1,Bank Account
+TXN00825,2026-02-02,Housing,Home Supplies,Home Supplies - housing purchase,UPI,7623.98,Bank Account
+TXN01755,2026-02-04,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,15402.57,Bank Account
+TXN00996,2026-02-04,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,831.64,Bank Account
+TXN00240,2026-02-05,Shopping,Department Store,Department Store - shopping purchase,UPI,1015.44,Bank Account
+TXN00599,2026-02-05,Transport,Metro,Metro - transport purchase,Cash,123.18,Bank Account
+TXN00880,2026-02-06,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,8104.8,Credit Card
+TXN00085,2026-02-06,Groceries,Local Market,Local Market - groceries purchase,UPI,223.92,Bank Account
+TXN01171,2026-02-06,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,897.8,Bank Account
+TXN01753,2026-02-06,Health,Pharmacy,Pharmacy - health purchase,UPI,5000.0,Bank Account
+TXN00245,2026-02-06,Transport,Bus Pass,Bus Pass - transport purchase,Credit Card,502.96,Bank Account
+TXN01172,2026-02-07,Housing,Home Supplies,Home Supplies - housing purchase,Cash,16537.13,Credit Card
+TXN00192,2026-02-07,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Cash,1563.47,Bank Account
+TXN00040,2026-02-08,Groceries,Local Market,Local Market - groceries purchase,Debit Card,1095.37,Bank Account
+TXN00658,2026-02-08,Housing,Home Supplies,Home Supplies - housing purchase,UPI,12882.87,Bank Account
+TXN01111,2026-02-08,Groceries,Local Market,Local Market - groceries purchase,Cash,836.37,Bank Account
+TXN00458,2026-02-09,Housing,Maintenance,Maintenance - housing purchase,UPI,9643.29,Bank Account
+TXN01370,2026-02-09,Entertainment,Concert,Concert - entertainment purchase,Credit Card,529.15,Bank Account
+TXN00958,2026-02-09,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,1400.0,Credit Card
+TXN00743,2026-02-09,Housing,Home Supplies,Home Supplies - housing purchase,UPI,12037.15,Cash Wallet
+TXN01196,2026-02-09,Transport,Ride App,Ride App - transport purchase,Credit Card,344.77,Credit Card
+TXN00475,2026-02-09,Travel,Travel Agency,Travel Agency - travel purchase,Debit Card,15000.0,Credit Card
+TXN00130,2026-02-09,Transport,Metro,Metro - transport purchase,UPI,412.49,Cash Wallet
+TXN01585,2026-02-10,Health,Pharmacy,Pharmacy - health purchase,Cash,1514.81,Credit Card
+TXN00341,2026-02-10,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,659.49,Credit Card
+TXN01467,2026-02-10,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,402.02,Bank Account
+TXN00673,2026-02-10,Utilities,Water Bill,Water Bill - utilities purchase,Credit Card,1293.38,Bank Account
+TXN01417,2026-02-10,Dining,Quick Bites,Quick Bites - dining purchase,UPI,352.11,Bank Account
+TXN00920,2026-02-11,Utilities,Electricity Board,Electricity Board - utilities purchase,Cash,1544.78,Credit Card
+TXN00782,2026-02-11,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Cash,645.73,Bank Account
+TXN00099,2026-02-11,Travel,Train Ticket,Train Ticket - travel purchase,UPI,6302.69,Bank Account
+TXN01128,2026-02-11,Transport,Ride App,Ride App - transport purchase,UPI,344.33,Credit Card
+TXN01235,2026-02-11,Housing,Maintenance,Maintenance - housing purchase,Credit Card,10620.05,Credit Card
+TXN01337,2026-02-12,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1075.85,Bank Account
+TXN01068,2026-02-13,Entertainment,Cinema,Cinema - entertainment purchase,Net Banking,273.99,Bank Account
+TXN00616,2026-02-13,Dining,Quick Bites,Quick Bites - dining purchase,UPI,510.85,Credit Card
+TXN00569,2026-02-14,Shopping,Department Store,Department Store - shopping purchase,Debit Card,2680.55,Credit Card
+TXN00600,2026-02-14,Shopping,Online Store,Online Store - shopping purchase,Credit Card,3461.19,Bank Account
+TXN00026,2026-02-15,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,196.17,Cash Wallet
+TXN01715,2026-02-16,Dining,Food Street,Food Street - dining purchase,UPI,1400.0,Bank Account
+TXN01717,2026-02-17,Dining,Food Street,Food Street - dining purchase,Credit Card,313.39,Credit Card
+TXN00984,2026-02-18,Shopping,Online Store,Online Store - shopping purchase,UPI,2910.72,Bank Account
+TXN00244,2026-02-19,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1061.01,Bank Account
+TXN01255,2026-02-19,Utilities,Water Bill,Water Bill - utilities purchase,UPI,468.36,Bank Account
+TXN01221,2026-02-19,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,844.83,Bank Account
+TXN00934,2026-02-19,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,942.83,Bank Account
+TXN01130,2026-02-19,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,725.92,Credit Card
+TXN00824,2026-02-19,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1175.89,Bank Account
+TXN00502,2026-02-20,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,320.36,Credit Card
+TXN01089,2026-02-20,Travel,Flight Booking,Flight Booking - travel purchase,Credit Card,7080.03,Bank Account
+TXN00771,2026-02-20,Dining,Food Street,Food Street - dining purchase,UPI,522.81,Credit Card
+TXN01205,2026-02-20,Utilities,Internet Provider,Internet Provider - utilities purchase,Net Banking,3500.0,Bank Account
+TXN01438,2026-02-21,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,264.79,Bank Account
+TXN00986,2026-02-21,Transport,Bus Pass,Bus Pass - transport purchase,Cash,445.52,Bank Account
+TXN01398,2026-02-21,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,602.01,Cash Wallet
+TXN00652,2026-02-21,Housing,Home Supplies,Home Supplies - housing purchase,Debit Card,7989.51,Credit Card
+TXN01723,2026-02-21,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,391.82,Bank Account
+TXN00003,2026-02-22,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,487.82,Cash Wallet
+TXN01224,2026-02-22,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,699.82,Credit Card
+TXN00123,2026-02-22,Travel,Flight Booking,Flight Booking - travel purchase,UPI,13506.22,Bank Account
+TXN00842,2026-02-23,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,1202.39,Credit Card
+TXN01693,2026-02-24,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,2536.91,Bank Account
+TXN00730,2026-02-24,Transport,Metro,Metro - transport purchase,UPI,42.54,Cash Wallet
+TXN01277,2026-02-24,Transport,Fuel Station,Fuel Station - transport purchase,UPI,389.72,Bank Account
+TXN00316,2026-02-25,Housing,Maintenance,Maintenance - housing purchase,UPI,7744.81,Bank Account
+TXN01597,2026-02-25,Utilities,Water Bill,Water Bill - utilities purchase,Cash,401.92,Bank Account
+TXN00255,2026-02-26,Utilities,Internet Provider,Internet Provider - utilities purchase,Net Banking,1853.13,Bank Account
+TXN00446,2026-02-27,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,3449.33,Bank Account
+TXN00156,2026-02-27,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Cash,4643.27,Credit Card
+TXN00372,2026-02-27,Transport,Metro,Metro - transport purchase,Credit Card,900.0,Bank Account
+TXN00162,2026-02-28,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Cash,1930.92,Bank Account
+TXN01648,2026-02-28,Dining,Food Street,Food Street - dining purchase,Cash,617.65,Credit Card
+TXN00479,2026-02-28,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,6500.0,Bank Account
+TXN00237,2026-02-28,Housing,Maintenance,Maintenance - housing purchase,Debit Card,14343.1,Bank Account
+TXN00822,2026-03-01,Dining,Quick Bites,Quick Bites - dining purchase,UPI,417.85,Bank Account
+TXN00311,2026-03-01,Shopping,Electronics Store,Electronics Store - shopping purchase,Debit Card,2198.71,Bank Account
+TXN00819,2026-03-01,Shopping,Department Store,Department Store - shopping purchase,UPI,6500.0,Bank Account
+TXN00108,2026-03-01,Transport,Fuel Station,Fuel Station - transport purchase,Credit Card,462.16,Bank Account
+TXN00859,2026-03-03,Entertainment,Concert,Concert - entertainment purchase,UPI,1021.96,Bank Account
+TXN01049,2026-03-03,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,883.62,Cash Wallet
+TXN00122,2026-03-03,Shopping,Online Store,Online Store - shopping purchase,UPI,5049.87,Credit Card
+TXN00641,2026-03-04,Entertainment,Cinema,Cinema - entertainment purchase,Credit Card,480.76,Bank Account
+TXN01132,2026-03-04,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,13406.75,Bank Account
+TXN00080,2026-03-04,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,560.69,Bank Account
+TXN01613,2026-03-04,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1609.36,Credit Card
+TXN00312,2026-03-05,Entertainment,Concert,Concert - entertainment purchase,Debit Card,373.74,Credit Card
+TXN01427,2026-03-05,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,1056.22,Bank Account
+TXN00736,2026-03-05,Transport,Fuel Station,Fuel Station - transport purchase,UPI,226.23,Credit Card
+TXN01306,2026-03-05,Utilities,Water Bill,Water Bill - utilities purchase,Debit Card,1740.1,Bank Account
+TXN00283,2026-03-05,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,774.51,Bank Account
+TXN01274,2026-03-07,Groceries,Green Basket,Green Basket - groceries purchase,Net Banking,943.85,Bank Account
+TXN01424,2026-03-07,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1713.36,Cash Wallet
+TXN01329,2026-03-07,Groceries,Local Market,Local Market - groceries purchase,UPI,1342.53,Bank Account
+TXN01071,2026-03-07,Transport,Ride App,Ride App - transport purchase,UPI,603.78,Credit Card
+TXN01298,2026-03-09,Housing,Maintenance,Maintenance - housing purchase,UPI,9283.36,Credit Card
+TXN01668,2026-03-09,Groceries,Daily Needs,Daily Needs - groceries purchase,Cash,1066.24,Credit Card
+TXN00416,2026-03-09,Shopping,Department Store,Department Store - shopping purchase,UPI,5682.79,Bank Account
+TXN00049,2026-03-09,Entertainment,Concert,Concert - entertainment purchase,UPI,619.54,Credit Card
+TXN00257,2026-03-09,Groceries,Local Market,Local Market - groceries purchase,Debit Card,897.22,Credit Card
+TXN01327,2026-03-10,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,1336.63,Bank Account
+TXN00711,2026-03-10,Dining,Food Street,Food Street - dining purchase,Debit Card,621.23,Bank Account
+TXN00827,2026-03-11,Transport,Fuel Station,Fuel Station - transport purchase,UPI,322.02,Bank Account
+TXN00550,2026-03-11,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,406.14,Bank Account
+TXN00098,2026-03-12,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Cash,473.1,Bank Account
+TXN01510,2026-03-12,Education,Book Store,Book Store - education purchase,Debit Card,4037.43,Bank Account
+TXN01703,2026-03-12,Housing,Maintenance,Maintenance - housing purchase,Cash,6592.53,Credit Card
+TXN01696,2026-03-12,Education,Online Course,Online Course - education purchase,UPI,5346.61,Bank Account
+TXN00060,2026-03-12,Housing,Home Supplies,Home Supplies - housing purchase,UPI,11948.79,Bank Account
+TXN01780,2026-03-13,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,277.2,Bank Account
+TXN00813,2026-03-13,Travel,Train Ticket,Train Ticket - travel purchase,Debit Card,13634.17,Credit Card
+TXN00191,2026-03-13,Dining,Cafe Corner,Cafe Corner - dining purchase,Net Banking,1400.0,Bank Account
+TXN00615,2026-03-14,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Net Banking,324.17,Bank Account
+TXN00788,2026-03-14,Housing,Maintenance,Maintenance - housing purchase,UPI,18000.0,Bank Account
+TXN00636,2026-03-14,Housing,Maintenance,Maintenance - housing purchase,UPI,12260.46,Cash Wallet
+TXN00075,2026-03-14,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,374.66,Credit Card
+TXN01547,2026-03-15,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1087.78,Cash Wallet
+TXN01062,2026-03-15,Transport,Fuel Station,Fuel Station - transport purchase,UPI,439.01,Bank Account
+TXN01149,2026-03-16,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,2200.0,Credit Card
+TXN00587,2026-03-16,Travel,Train Ticket,Train Ticket - travel purchase,Credit Card,6495.2,Bank Account
+TXN00941,2026-03-17,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1212.25,Credit Card
+TXN01183,2026-03-17,Shopping,Clothing Shop,,UPI,2335.47,Cash Wallet
+TXN00422,2026-03-19,Housing,Home Supplies,Home Supplies - housing purchase,UPI,14911.75,Bank Account
+TXN01614,2026-03-19,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Net Banking,1974.76,Credit Card
+TXN00666,2026-03-20,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,14137.68,Credit Card
+TXN00184,2026-03-21,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Credit Card,593.99,Cash Wallet
+TXN00175,2026-03-21,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,1800.0,Credit Card
+TXN00875,2026-03-21,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Cash,1190.36,Bank Account
+TXN00008,2026-03-21,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,539.91,Credit Card
+TXN01472,2026-03-22,Transport,Metro,Metro - transport purchase,Debit Card,800.07,Bank Account
+TXN00866,2026-03-22,Groceries,Local Market,Local Market - groceries purchase,Debit Card,1702.43,Bank Account
+TXN01303,2026-03-23,Entertainment,Concert,Concert - entertainment purchase,Debit Card,719.8,Credit Card
+TXN00086,2026-03-23,Education,Book Store,Book Store - education purchase,Cash,1091.63,Bank Account
+TXN00043,2026-03-23,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,734.51,Bank Account
+TXN00204,2026-03-23,Entertainment,Cinema,Cinema - entertainment purchase,UPI,1134.86,Credit Card
+TXN00932,2026-03-23,Travel,Travel Agency,Travel Agency - travel purchase,UPI,15000.0,Cash Wallet
+TXN01733,2026-03-23,Entertainment,Cinema,Cinema - entertainment purchase,UPI,654.28,Bank Account
+TXN01348,2026-03-24,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Credit Card,2213.81,Bank Account
+TXN01595,2026-03-24,Entertainment,Cinema,Cinema - entertainment purchase,Cash,628.33,Bank Account
+TXN00982,2026-03-24,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,3541.31,Credit Card
+TXN01194,2026-03-25,Dining,Quick Bites,Quick Bites - dining purchase,UPI,1233.96,Bank Account
+TXN00110,2026-03-26,Housing,Monthly Rent,Monthly Rent - housing purchase,Cash,11003.9,Credit Card
+TXN00223,2026-03-26,Entertainment,Game Store,Game Store - entertainment purchase,UPI,1291.14,Bank Account
+TXN01041,2026-03-27,Dining,Quick Bites,Quick Bites - dining purchase,UPI,454.94,Credit Card
+TXN01064,2026-03-27,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,1107.84,Bank Account
+TXN01539,2026-03-27,Housing,Home Supplies,Home Supplies - housing purchase,UPI,11183.3,Bank Account
+TXN01600,2026-03-28,Housing,Home Supplies,Home Supplies - housing purchase,UPI,7056.14,Bank Account
+TXN01317,2026-03-29,Groceries,Green Basket,Green Basket - groceries purchase,UPI,312.61,Bank Account
+TXN01045,2026-03-29,Entertainment,Concert,Concert - entertainment purchase,Credit Card,788.07,Credit Card
+TXN00541,2026-03-29,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,1118.31,Credit Card
+TXN00892,2026-03-29,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,730.54,Bank Account
+TXN00906,2026-03-29,Shopping,Electronics Store,Electronics Store - shopping purchase,Cash,3723.14,Bank Account
+TXN01522,2026-03-30,Dining,Quick Bites,Quick Bites - dining purchase,Cash,536.13,Cash Wallet
+TXN01077,2026-03-30,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,6238.74,Bank Account
+TXN01276,2026-04-01,Utilities,Internet Provider,Internet Provider - utilities purchase,Cash,1841.21,Bank Account
+TXN01197,2026-04-01,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,229.25,Bank Account
+TXN00430,2026-04-02,Groceries,Green Basket,Green Basket - groceries purchase,UPI,831.17,Bank Account
+TXN01675,2026-04-03,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,1383.32,Bank Account
+TXN00177,2026-04-03,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Debit Card,3500.0,Credit Card
+TXN01332,2026-04-03,Shopping,Department Store,Department Store - shopping purchase,Debit Card,1592.42,Bank Account
+TXN00015,2026-04-03,Travel,Travel Agency,Travel Agency - travel purchase,Credit Card,5634.61,Bank Account
+TXN00212,2026-04-03,Transport,Metro,Metro - transport purchase,UPI,439.7,Bank Account
+TXN00774,2026-04-03,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,470.25,Bank Account
+TXN01750,2026-04-04,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1288.67,Credit Card
+TXN01208,2026-04-05,Dining ,Hotel,Hotel - travel purchase,Cash,8861.81,Credit Card
+TXN00395,2026-04-05,Transport,Fuel Station,Fuel Station - transport purchase,UPI,900.0,Cash Wallet
+TXN00236,2026-04-05,Transport,Metro,Metro - transport purchase,Cash,842.33,Bank Account
+TXN00697,2026-04-06,Dining,Quick Bites,Quick Bites - dining purchase,Credit Card,696.62,Bank Account
+TXN00727,2026-04-06,Transport,Bus Pass,Bus Pass - transport purchase,Cash,570.83,Bank Account
+TXN00225,2026-04-06,Transport,Metro,Metro - transport purchase,UPI,731.08,Bank Account
+TXN00174,2026-04-06,Education,Book Store,Book Store - education purchase,Debit Card,7000.0,Bank Account
+TXN01641,2026-04-06,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,13187.88,Bank Account
+TXN00793,2026-04-07,Dining,Food Street,Food Street - dining purchase,Debit Card,1279.92,Cash Wallet
+TXN00461,2026-04-07,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,1008.52,Credit Card
+TXN00681,2026-04-07,Entertainment,Cinema,Cinema - entertainment purchase,Net Banking,452.34,Credit Card
+TXN01119,2026-04-07,Utilities,Electricity Board,Electricity Board - utilities purchase,Debit Card,680.59,Bank Account
+TXN01137,2026-04-08,Education,Training Centre,Training Centre - education purchase,UPI,2164.47,Bank Account
+TXN01598,2026-04-08,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,1151.76,Credit Card
+TXN01785,2026-04-09,Dining,Quick Bites,Quick Bites - dining purchase,Credit Card,633.29,Credit Card
+TXN00676,2026-04-09,Dining,Quick Bites,Quick Bites - dining purchase,UPI,435.81,Credit Card
+TXN00318,2026-04-09,Utilities,Water Bill,Water Bill - utilities purchase,Debit Card,1230.27,Credit Card
+TXN01670,2026-04-09,Travel,Travel Agency,Travel Agency - travel purchase,UPI,5919.06,Bank Account
+TXN00731,2026-04-10,Housing,Home Supplies,Home Supplies - housing purchase,UPI,18000.0,Bank Account
+TXN00713,2026-04-10,Health,Clinic,Clinic - health purchase,UPI,1922.41,Credit Card
+TXN00760,2026-04-11,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Cash,1201.28,Credit Card
+TXN00317,2026-04-11,Transport,Ride App,Ride App - transport purchase,Debit Card,306.53,Cash Wallet
+TXN01724,2026-04-12,Education,Online Course,Online Course - education purchase,UPI,3957.92,Cash Wallet
+TXN01033,2026-04-12,Health,Pharmacy,Pharmacy - health purchase,Cash,4328.21,Bank Account
+TXN00737,2026-04-12,Transport,Fuel Station,Fuel Station - transport purchase,UPI,237.9,Credit Card
+TXN01009,2026-04-13,Health,Pharmacy,Pharmacy - health purchase,UPI,4113.56,Bank Account
+TXN01218,2026-04-13,Groceries,Green Basket,Green Basket - groceries purchase,UPI,702.14,Credit Card
+TXN01714,2026-04-13,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,2303.93,Bank Account
+TXN01232,2026-04-14,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,1334.09,Bank Account
+TXN01573,2026-04-14,Shopping,Department Store,Department Store - shopping purchase,UPI,3062.61,Bank Account
+TXN01349,2026-04-14,Transport,Metro,Metro - transport purchase,Debit Card,508.94,Bank Account
+TXN00886,2026-04-14,Entertainment,Cinema,Cinema - entertainment purchase,UPI,730.01,Cash Wallet
+TXN00662,2026-04-14,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Debit Card,511.75,Bank Account
+TXN01591,2026-04-15,Travel,Travel Agency,Travel Agency - travel purchase,Cash,9732.17,Cash Wallet
+TXN00013,2026-04-15,Entertainment,Game Store,Game Store - entertainment purchase,UPI,288.93,Bank Account
+TXN00557,2026-04-15,Dining,Food Street,Food Street - dining purchase,Debit Card,481.23,Credit Card
+TXN00377,2026-04-15,Dining,Food Street,Food Street - dining purchase,Net Banking,396.14,Bank Account
+TXN00757,2026-04-16,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,865.06,Bank Account
+TXN00739,2026-04-16,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,1021.14,Bank Account
+TXN00631,2026-04-16,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,251.23,Bank Account
+TXN01002,2026-04-16,Groceries,Daily Needs,Daily Needs - groceries purchase,Net Banking,455.35,Bank Account
+TXN00215,2026-04-16,Travel,Travel Agency,Travel Agency - travel purchase,UPI,3722.69,Bank Account
+TXN00805,2026-04-16,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,12702.59,Bank Account
+TXN01602,2026-04-17,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,2484.7,Cash Wallet
+TXN00603,2026-04-17,Transport,Metro,Metro - transport purchase,Credit Card,687.65,Bank Account
+TXN00432,2026-04-17,Housing,Maintenance,Maintenance - housing purchase,Debit Card,11160.06,Credit Card
+TXN00471,2026-04-17,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,942.98,Credit Card
+TXN01449,2026-04-17,Groceries,Green Basket,Green Basket - groceries purchase,UPI,840.5,Credit Card
+TXN01282,2026-04-17,Travel,Flight Booking,Flight Booking - travel purchase,Cash,2903.14,Bank Account
+TXN01281,2026-04-18,Health,Pharmacy,Pharmacy - health purchase,Net Banking,3982.2,Bank Account
+TXN01394,2026-04-19,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,560.26,Bank Account
+TXN01036,2026-04-19,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Credit Card,1558.37,Bank Account
+TXN01722,2026-04-19,Travel,Travel Agency,Travel Agency - travel purchase,UPI,15000.0,Bank Account
+TXN01139,2026-04-20,Utilities,Electricity Board,Electricity Board - utilities purchase,Net Banking,1995.19,Bank Account
+TXN00059,2026-04-20,Housing,Home Supplies,Home Supplies - housing purchase,Credit Card,6872.9,Cash Wallet
+TXN01742,2026-04-20,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,1962.99,Bank Account
+TXN01513,2026-04-20,Transport,Metro,Metro - transport purchase,UPI,69.4,Credit Card
+TXN00062,2026-04-21,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,6148.91,Bank Account
+TXN00878,2026-04-21,Housing,Maintenance,Maintenance - housing purchase,Credit Card,7267.35,Credit Card
+TXN00512,2026-04-21,Travel,Hotel,Hotel - travel purchase,Net Banking,2111.38,Cash Wallet
+TXN00378,2026-04-22,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1430.88,Bank Account
+TXN00391,2026-04-22,Housing,Maintenance,Maintenance - housing purchase,Credit Card,11049.72,Bank Account
+TXN00463,2026-04-23,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,2480.11,Credit Card
+TXN00360,2026-04-23,Travel,Flight Booking,Flight Booking - travel purchase,Credit Card,3262.88,Bank Account
+TXN00895,2026-04-24,Entertainment,Cinema,Cinema - entertainment purchase,UPI,1138.98,Bank Account
+TXN01234,2026-04-24,Education,Training Centre,Training Centre - education purchase,Debit Card,5956.47,Bank Account
+TXN01378,2026-04-25,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,557.16,Bank Account
+TXN01667,2026-04-25,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,551.99,Credit Card
+TXN00493,2026-04-26,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,499.75,Bank Account
+TXN01065,2026-04-26,Shopping,Department Store,Department Store - shopping purchase,Debit Card,3473.01,Bank Account
+TXN01790,2026-04-26,Housing,Maintenance,Maintenance - housing purchase,UPI,14235.45,Bank Account
+TXN01098,2026-04-27,Transport,Fuel Station,Fuel Station - transport purchase,Cash,875.17,Bank Account
+TXN01073,2026-04-28,Shopping,Electronics Store,Electronics Store - shopping purchase,Debit Card,962.3,Bank Account
+TXN00247,2026-04-29,Shopping,Department Store,Department Store - shopping purchase,UPI,1753.63,Bank Account
+TXN00042,2026-04-29,Entertainment,Game Store,Game Store - entertainment purchase,Cash,1757.76,Bank Account
+TXN00234,2026-04-29,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,3094.74,Credit Card
+TXN01674,2026-04-29,Entertainment,Concert,Concert - entertainment purchase,UPI,482.59,Bank Account
+TXN01301,2026-04-30,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Cash,834.01,Bank Account
+TXN00051,2026-04-30,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,3500.0,Bank Account
+TXN01204,2026-05-01,Education,Online Course,Online Course - education purchase,Net Banking,760.05,Bank Account
+TXN00014,2026-05-01,Travel,Flight Booking,Flight Booking - travel purchase,UPI,7322.93,Cash Wallet
+TXN01134,2026-05-02,Transport,Ride App,Ride App - transport purchase,UPI,397.38,Bank Account
+TXN00742,2026-05-02,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,1846.43,Credit Card
+TXN01671,2026-05-02,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,2164.93,Bank Account
+TXN01275,2026-05-02,Transport,Bus Pass,,UPI,508.16,Bank Account
+TXN00714,2026-05-03,Transport,Ride App,Ride App - transport purchase,Net Banking,144.31,Bank Account
+TXN00207,2026-05-03,Groceries,Local Market,Local Market - groceries purchase,UPI,933.93,Bank Account
+TXN00657,2026-05-04,Education,Online Course,Online Course - education purchase,UPI,6906.57,Bank Account
+TXN00489,2026-05-04,Entertainment,Game Store,Game Store - entertainment purchase,Net Banking,681.52,Credit Card
+TXN00423,2026-05-04,Groceries,Local Market,Local Market - groceries purchase,Net Banking,1565.42,Bank Account
+TXN00128,2026-05-04,Transport,Fuel Station,Fuel Station - transport purchase,UPI,234.48,Bank Account
+TXN00089,2026-05-05,Transport,Metro,Metro - transport purchase,Cash,260.21,Cash Wallet
+TXN01148,2026-05-06,Utilities,Electricity Board,Electricity Board - utilities purchase,Debit Card,2431.43,Bank Account
+TXN00320,2026-05-06,Groceries,Green Basket,Green Basket - groceries purchase,Credit Card,192.21,Bank Account
+TXN01775,2026-05-06,Utilities,Water Bill,Water Bill - utilities purchase,Debit Card,1841.46,Bank Account
+TXN01061,2026-05-07,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Credit Card,3500.0,Credit Card
+TXN00911,2026-05-07,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,445.16,Cash Wallet
+TXN00645,2026-05-07,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,12637.33,Bank Account
+TXN00173,2026-05-08,Housing,Monthly Rent,Monthly Rent - housing purchase,Cash,6634.52,Cash Wallet
+TXN01691,2026-05-08,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,4291.63,Bank Account
+TXN01058,2026-05-08,Groceries,Local Market,Local Market - groceries purchase,Net Banking,452.91,Bank Account
+TXN00370,2026-05-08,Housing,Maintenance,Maintenance - housing purchase,Cash,7381.43,Bank Account
+TXN00864,2026-05-08,Groceries,Daily Needs,Daily Needs - groceries purchase,Cash,300.6,Bank Account
+TXN00002,2026-05-09,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,623.58,Bank Account
+TXN01558,2026-05-09,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Cash,242.12,Bank Account
+TXN01278,2026-05-09,Entertainment,Cinema,Cinema - entertainment purchase,UPI,387.4,Credit Card
+TXN01339,2026-05-10,Transport,Fuel Station,Fuel Station - transport purchase,UPI,178.43,Cash Wallet
+TXN00734,2026-05-10,Shopping,Online Store,Online Store - shopping purchase,UPI,1503.3,Credit Card
+TXN01611,2026-05-11,Housing,Monthly Rent,Monthly Rent - housing purchase,Credit Card,13594.02,Bank Account
+TXN00836,2026-05-11,Shopping,Online Store,Online Store - shopping purchase,UPI,2763.81,Bank Account
+TXN01242,2026-05-11,Housing,Home Supplies,Home Supplies - housing purchase,Debit Card,8042.62,Bank Account
+TXN00402,2026-05-11,Utilities,Water Bill,Water Bill - utilities purchase,Debit Card,3093.14,Cash Wallet
+TXN01469,2026-05-12,Transport,Bus Pass,Bus Pass - transport purchase,UPI,356.6,Bank Account
+TXN00815,2026-05-12,Dining,Food Street,Food Street - dining purchase,Credit Card,834.6,Credit Card
+TXN00210,2026-05-12,Dining,Food Street,Food Street - dining purchase,Cash,540.36,Credit Card
+TXN00602,2026-05-12,Travel,Travel Agency,Travel Agency - travel purchase,Cash,6360.54,Bank Account
+TXN00050,2026-05-12,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,328.46,Bank Account
+TXN01731,2026-05-12,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1819.24,Bank Account
+TXN00598,2026-05-13,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,2230.45,Bank Account
+TXN00766,2026-05-13,Entertainment,Cinema,Cinema - entertainment purchase,Debit Card,1011.9,Bank Account
+TXN01313,2026-05-13,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,276.23,Bank Account
+TXN01441,2026-05-13,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,244.34,Credit Card
+TXN00107,2026-05-13,Education,Book Store,Book Store - education purchase,Cash,7000.0,Bank Account
+TXN00806,2026-05-14,Travel,Train Ticket,Train Ticket - travel purchase,UPI,3878.25,Credit Card
+TXN01498,2026-05-14,Dining,Quick Bites,Quick Bites - dining purchase,UPI,838.38,Credit Card
+TXN01212,2026-05-14,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,1665.59,Credit Card
+TXN00025,2026-05-14,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,833.38,Cash Wallet
+TXN00112,2026-05-14,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Debit Card,2359.47,Bank Account
+TXN01726,2026-05-15,Transport,Bus Pass,Bus Pass - transport purchase,Credit Card,651.59,Bank Account
+TXN00690,2026-05-15,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Credit Card,620.83,Bank Account
+TXN00278,2026-05-15,Transport,Ride App,Ride App - transport purchase,Debit Card,770.14,Bank Account
+TXN00160,2026-05-16,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Cash,3208.92,Bank Account
+TXN00918,2026-05-16,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,8606.31,Cash Wallet
+TXN00613,2026-05-16,Utilities,Water Bill,Water Bill - utilities purchase,Debit Card,1606.49,Bank Account
+TXN00476,2026-05-16,Groceries,Local Market,Local Market - groceries purchase,UPI,1315.89,Bank Account
+TXN01416,2026-05-16,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,332.37,Bank Account
+TXN00016,2026-05-17,Travel,Train Ticket,Train Ticket - travel purchase,UPI,4284.26,Bank Account
+TXN00955,2026-05-17,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,891.15,Bank Account
+TXN00725,2026-05-17,Transport,Bus Pass,Bus Pass - transport purchase,UPI,565.55,Cash Wallet
+TXN00249,2026-05-18,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,16128.68,Bank Account
+TXN00990,2026-05-18,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,8160.4,Credit Card
+TXN01430,2026-05-18,Housing,Maintenance,Maintenance - housing purchase,Credit Card,9486.62,Cash Wallet
+TXN00106,2026-05-18,Transport,Metro,Metro - transport purchase,Debit Card,733.92,Bank Account
+TXN00213,2026-05-19,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1592.42,Credit Card
+TXN01461,2026-05-20,Entertainment,Game Store,Game Store - entertainment purchase,UPI,1161.02,Bank Account
+TXN00559,2026-05-21,Education,Book Store,Book Store - education purchase,UPI,4046.69,Credit Card
+TXN00639,2026-05-21,Health,Clinic,Clinic - health purchase,Debit Card,3868.37,Bank Account
+TXN01414,2026-05-21,Dining,Food Street,Food Street - dining purchase,UPI,952.9,Bank Account
+TXN01617,2026-05-22,Groceries,Local Market,Local Market - groceries purchase,UPI,707.75,Bank Account
+TXN01133,2026-05-22,Transport,Metro,Metro - transport purchase,UPI,482.79,Bank Account
+TXN01254,2026-05-22,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Credit Card,1497.15,Bank Account
+TXN00261,2026-05-22,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Net Banking,1398.72,Credit Card
+TXN00071,2026-05-23,Dining,Quick Bites,Quick Bites - dining purchase,Credit Card,343.97,Bank Account
+TXN00692,2026-05-23,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,393.94,Bank Account
+TXN01684,2026-05-23,Dining,Food Street,Food Street - dining purchase,UPI,1089.74,Bank Account
+TXN00135,2026-05-23,Transport,Bus Pass,Bus Pass - transport purchase,Net Banking,395.77,Credit Card
+TXN00745,2026-05-23,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,1400.0,Bank Account
+TXN00484,2026-05-24,Travel,Travel Agency,Travel Agency - travel purchase,UPI,3951.15,Credit Card
+TXN00105,2026-05-24,Shopping,Online Store,Online Store - shopping purchase,UPI,1757.61,Cash Wallet
+TXN01578,2026-05-25,Dining,Quick Bites,Quick Bites - dining purchase,Credit Card,906.02,Cash Wallet
+TXN00716,2026-05-25,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,513.52,Credit Card
+TXN01736,2026-05-25,Transport,Metro,Metro - transport purchase,Credit Card,321.82,Bank Account
+TXN00686,2026-05-26,Education,Online Course,Online Course - education purchase,Credit Card,2490.99,Credit Card
+TXN00591,2026-05-26,Groceries,Local Market,Local Market - groceries purchase,UPI,782.2,Credit Card
+TXN01284,2026-05-26,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Net Banking,702.05,Credit Card
+TXN01012,2026-05-26,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,687.48,Credit Card
+TXN01087,2026-05-27,Dining,Food Street,Food Street - dining purchase,Credit Card,1400.0,Bank Account
+TXN00852,2026-05-27,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,371.46,Credit Card
+TXN00860,2026-05-27,Education,Online Course,Online Course - education purchase,UPI,2404.8,Credit Card
+TXN00596,2026-05-27,Shopping,Electronics Store,Electronics Store - shopping purchase,Cash,6500.0,Credit Card
+TXN01260,2026-05-27,Groceries,Green Basket,Green Basket - groceries purchase,Credit Card,1499.9,Bank Account
+TXN00551,2026-05-28,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Credit Card,3304.28,Bank Account
+TXN01199,2026-05-28,Groceries,Daily Needs,Daily Needs - groceries purchase,Cash,948.76,Credit Card
+TXN00472,2026-05-29,Education,Training Centre,Training Centre - education purchase,Debit Card,7000.0,Bank Account
+TXN00654,2026-05-29,Transport,Fuel Station,Fuel Station - transport purchase,Net Banking,397.44,Cash Wallet
+TXN01749,2026-05-29, grocery ,Online Store,Online Store - shopping purchase,Debit Card,5044.14,Cash Wallet
+TXN00103,2026-05-29,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1564.4,Bank Account
+TXN00092,2026-05-29,Shopping,Department Store,Department Store - shopping purchase,UPI,3467.88,Credit Card
+TXN00428,2026-05-29,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Debit Card,2921.92,Bank Account
+TXN00227,2026-05-31,Housing,Home Supplies,Home Supplies - housing purchase,UPI,7835.05,Credit Card
+TXN00291,2026-05-31,Housing,Maintenance,Maintenance - housing purchase,Cash,10827.05,Credit Card
+TXN00837,2026-05-31,Entertainment,Concert,Concert - entertainment purchase,UPI,1198.2,Bank Account
+TXN01001,2026-05-31,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,674.5,Cash Wallet
+TXN01334,2026-05-31,Education,Book Store,Book Store - education purchase,Debit Card,1785.57,Bank Account
+TXN00336,2026-05-31,Groceries,Green Basket,Green Basket - groceries purchase,Cash,1487.41,Bank Account
+TXN01219,2026-06-01,Groceries,Local Market,Local Market - groceries purchase,Credit Card,2200.0,Credit Card
+TXN01574,2026-06-03,Housing,Home Supplies,Home Supplies - housing purchase,Debit Card,17825.28,Bank Account
+TXN00885,2026-06-03,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,1020.9,Bank Account
+TXN01426,2026-06-04,Travel,Hotel,Hotel - travel purchase,UPI,6847.49,Bank Account
+TXN00166,2026-06-04,Travel,Train Ticket,Train Ticket - travel purchase,UPI,12686.38,Credit Card
+TXN01535,2026-06-05,Shopping,Electronics Store,Electronics Store - shopping purchase,Debit Card,2299.38,Bank Account
+TXN00514,2026-06-05,Education,Training Centre,Training Centre - education purchase,Credit Card,3418.55,Cash Wallet
+TXN00741,2026-06-06,Shopping,Department Store,Department Store - shopping purchase,UPI,2413.91,Bank Account
+TXN00849,2026-06-08,Housing,Monthly Rent,Monthly Rent - housing purchase,Net Banking,5638.41,Bank Account
+TXN00867,2026-06-08,Travel,Hotel,Hotel - travel purchase,UPI,2226.1,Cash Wallet
+TXN00149,2026-06-09,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Cash,1800.0,Bank Account
+TXN01231,2026-06-09,Dining,Food Street,Food Street - dining purchase,Cash,1222.28,Bank Account
+TXN01025,2026-06-09,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,443.36,Bank Account
+TXN01264,2026-06-09,Transport,Metro,Metro - transport purchase,UPI,900.0,Credit Card
+TXN00028,2026-06-09,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,635.82,Credit Card
+TXN01587,2026-06-10,Health,Pharmacy,Pharmacy - health purchase,Net Banking,1715.61,Credit Card
+TXN00524,2026-06-11,Transport,Ride App,Ride App - transport purchase,Credit Card,900.0,Bank Account
+TXN00433,2026-06-11,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Credit Card,1407.3,Bank Account
+TXN00794,2026-06-11,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,1317.88,Bank Account
+TXN01603,2026-06-11,Travel,Hotel,Hotel - travel purchase,Net Banking,11978.04,Credit Card
+TXN00605,2026-06-12,Health,Clinic,Clinic - health purchase,Cash,693.87,Bank Account
+TXN00302,2026-06-12,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,874.45,Credit Card
+TXN01040,2026-06-12,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1944.8,Credit Card
+TXN00038,2026-06-13,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,421.6,Bank Account
+TXN00553,2026-06-13,Entertainment,Concert,Concert - entertainment purchase,Cash,1416.78,Bank Account
+TXN00334,2026-06-14,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Credit Card,4500.28,Bank Account
+TXN00482,2026-06-14,Groceries,Local Market,Local Market - groceries purchase,Debit Card,2200.0,Bank Account
+TXN00388,2026-06-15,Transport,Ride App,Ride App - transport purchase,Debit Card,427.38,Credit Card
+TXN00090,2026-06-15,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,3622.39,Credit Card
+TXN00545,2026-06-15,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,995.41,Bank Account
+TXN00084,2026-06-16,Housing,Home Supplies,Home Supplies - housing purchase,Credit Card,10927.76,Bank Account
+TXN00582,2026-06-16,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Credit Card,1093.34,Bank Account
+TXN00611,2026-06-16,Groceries,Local Market,Local Market - groceries purchase,UPI,1290.76,Cash Wallet
+TXN00101,2026-06-16,Groceries,Local Market,Local Market - groceries purchase,UPI,1034.4,Bank Account
+TXN01650,2026-06-18,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,902.35,Bank Account
+TXN00816,2026-06-18,Health,Clinic,Clinic - health purchase,Debit Card,2833.92,Cash Wallet
+TXN01080,2026-06-18,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,620.37,Bank Account
+TXN01097,2026-06-18,Dining,Quick Bites,Quick Bites - dining purchase,UPI,495.09,Bank Account
+TXN00868,2026-06-19,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,705.09,Bank Account
+TXN00589,2026-06-19,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,1464.89,Bank Account
+TXN01016,2026-06-19,Dining,Food Street,Food Street - dining purchase,UPI,1102.77,Bank Account
+TXN01659,2026-06-20,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,16018.17,Bank Account
+TXN01086,2026-06-20,Education,Book Store,Book Store - education purchase,Debit Card,2247.88,Bank Account
+TXN00019,2026-06-20,Dining,Quick Bites,Quick Bites - dining purchase,UPI,820.45,Credit Card
+TXN00963,2026-06-20,Travel,Travel Agency,Travel Agency - travel purchase,Debit Card,9320.33,Cash Wallet
+TXN01125,2026-06-21,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,8269.23,Credit Card
+TXN01500,2026-06-21,Utilities,Electricity Board,Electricity Board - utilities purchase,Debit Card,2417.69,Bank Account
+TXN00093,2026-06-21,Health,Pharmacy,Pharmacy - health purchase,Net Banking,939.93,Credit Card
+TXN00513,2026-06-21,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,371.37,Bank Account
+TXN00459,2026-06-21,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,4167.5,Bank Account
+TXN01093,2026-06-22,Transport,Ride App,Ride App - transport purchase,UPI,576.54,Bank Account
+TXN01024,2026-06-22,Transport,Metro,Metro - transport purchase,UPI,900.0,Bank Account
+TXN01126,2026-06-23,Transport,Metro,Metro - transport purchase,UPI,527.18,Credit Card
+TXN01144,2026-06-23,Education,Book Store,Book Store - education purchase,Cash,3533.97,Bank Account
+TXN00590,2026-06-23,Housing,Home Supplies,Home Supplies - housing purchase,Debit Card,10210.14,Credit Card
+TXN00723,2026-06-24,Health,Clinic,Clinic - health purchase,Debit Card,1187.51,Cash Wallet
+TXN00361,2026-06-24,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Cash,946.67,Bank Account
+TXN00865,2026-06-24,Groceries,Local Market,Local Market - groceries purchase,Credit Card,422.93,Bank Account
+TXN01599,2026-06-24,Health,Pharmacy,Pharmacy - health purchase,UPI,1612.05,Bank Account
+TXN00775,2026-06-24,Health,Clinic,Clinic - health purchase,Debit Card,1110.64,Credit Card
+TXN01657,2026-06-25,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Credit Card,2072.74,Bank Account
+TXN00477,2026-06-25,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,6500.0,Credit Card
+TXN01548,2026-06-26,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,88.93,Credit Card
+TXN00650,2026-06-26,Dining,Food Street,Food Street - dining purchase,UPI,1381.0,Credit Card
+TXN01163,2026-06-26,Housing,Monthly Rent,Monthly Rent - housing purchase,Cash,8168.02,Cash Wallet
+TXN00856,2026-06-26,Utilities,Internet Provider,Internet Provider - utilities purchase,Cash,767.95,Credit Card
+TXN01158,2026-06-27,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,16558.83,Credit Card
+TXN00297,2026-06-27,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,1400.0,Bank Account
+TXN00780,2026-06-27,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,9476.48,Credit Card
+TXN01007,2026-06-27,Housing,Maintenance,Maintenance - housing purchase,Debit Card,7885.92,Credit Card
+TXN01465,2026-06-28,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,6500.0,Bank Account
+TXN00882,2026-06-28,Health,Clinic,Clinic - health purchase,Debit Card,1439.86,Bank Account
+TXN01150,2026-06-28,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,292.77,Bank Account
+TXN00560,2026-06-28,Transport,Bus Pass,Bus Pass - transport purchase,UPI,279.74,Bank Account
+TXN00643,2026-06-29,Transport,Bus Pass,Bus Pass - transport purchase,Cash,788.41,Credit Card
+TXN01552,2026-06-29,Shopping,Department Store,Department Store - shopping purchase,UPI,2200.91,Bank Account
+TXN01310,2026-06-29,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,2200.0,Credit Card
+TXN00146,2026-06-29,Transport,Fuel Station,Fuel Station - transport purchase,Cash,309.98,Bank Account
+TXN01127,2026-06-29,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,2531.91,Credit Card
+TXN01314,2026-06-29,Housing,Maintenance,Maintenance - housing purchase,UPI,12915.51,Bank Account
+TXN00125,2026-06-30,Shopping,Online Store,Online Store - shopping purchase,UPI,3115.93,Bank Account
+TXN01401,2026-06-30,Education,Book Store,Book Store - education purchase,Cash,1385.18,Credit Card
+TXN01560,2026-06-30,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,12225.55,Credit Card
+TXN00835,2026-06-30,Entertainment,Game Store,Game Store - entertainment purchase,UPI,838.71,Credit Card
+TXN01347,2026-06-30,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,1400.0,Bank Account
+TXN00151,2026-06-30,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,6255.43,Bank Account
+TXN00232,2026-07-01,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,16042.74,Bank Account
+TXN01042,2026-07-01,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,14876.56,Bank Account
+TXN00610,2026-07-02,Shopping,Department Store,Department Store - shopping purchase,Credit Card,1078.51,Credit Card
+TXN00006,2026-07-02,Shopping,Online Store,Online Store - shopping purchase,UPI,6500.0,Bank Account
+TXN00037,2026-07-02,Education,Online Course,Online Course - education purchase,Cash,4897.45,Bank Account
+TXN01292,2026-07-02,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,3250.09,Bank Account
+TXN01706,2026-07-03,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,1658.32,Bank Account
+TXN01247,2026-07-03,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Credit Card,1170.22,Cash Wallet
+TXN01419,2026-07-04,Housing,Home Supplies,Home Supplies - housing purchase,UPI,12144.76,Bank Account
+TXN00668,2026-07-04,Groceries,Green Basket,Green Basket - groceries purchase,UPI,766.39,Bank Account
+TXN01589,2026-07-04,Groceries,Local Market,Local Market - groceries purchase,UPI,659.83,Bank Account
+TXN01735,2026-07-04,Housing,Monthly Rent,Monthly Rent - housing purchase,Cash,11832.97,Bank Account
+TXN01486,2026-07-05,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,3306.43,Bank Account
+TXN00829,2026-07-05,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,720.23,Cash Wallet
+TXN01509,2026-07-05,Transport,Metro,Metro - transport purchase,UPI,100.16,Bank Account
+TXN01521,2026-07-06,Groceries,Local Market,Local Market - groceries purchase,UPI,1002.24,Credit Card
+TXN00427,2026-07-06,Transport,Bus Pass,Bus Pass - transport purchase,UPI,900.0,Bank Account
+TXN01734,2026-07-07,Shopping,Department Store,Department Store - shopping purchase,Debit Card,1846.42,Credit Card
+TXN01280,2026-07-07,Travel,Flight Booking,Flight Booking - travel purchase,UPI,9719.28,Bank Account
+TXN01325,2026-07-07,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Cash,402.3,Bank Account
+TXN01214,2026-07-08,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,797.72,Bank Account
+TXN00492,2026-07-08,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,1800.0,Credit Card
+TXN00504,2026-07-08,Transport,Metro,Metro - transport purchase,UPI,404.73,Bank Account
+TXN01023,2026-07-09,Housing,Maintenance,Maintenance - housing purchase,UPI,7442.1,Bank Account
+TXN00921,2026-07-11,Education,Book Store,Book Store - education purchase,Net Banking,3633.15,Credit Card
+TXN00396,2026-07-12,Transport,Metro,Metro - transport purchase,Credit Card,303.11,Cash Wallet
+TXN01408,2026-07-12,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,6170.39,Credit Card
+TXN01658,2026-07-12,Dining,Quick Bites,Quick Bites - dining purchase,Cash,1077.38,Credit Card
+TXN00558,2026-07-13,Housing,Monthly Rent,Monthly Rent - housing purchase,Credit Card,9893.84,Credit Card
+TXN01245,2026-07-13,Dining,Quick Bites,Quick Bites - dining purchase,Cash,476.98,Cash Wallet
+TXN01716,2026-07-15,Housing,Home Supplies,Home Supplies - housing purchase,Cash,13568.61,Bank Account
+TXN00781,2026-07-15,Shopping,Online Store,Online Store - shopping purchase,Net Banking,5031.54,Credit Card
+TXN00812,2026-07-15,Transport,Fuel Station,Fuel Station - transport purchase,UPI,209.19,Bank Account
+TXN01201,2026-07-15,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,1551.72,Bank Account
+TXN01634,2026-07-16,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,1304.1,Bank Account
+TXN01713,2026-07-16,Housing,Maintenance,Maintenance - housing purchase,Debit Card,11133.1,Cash Wallet
+TXN01371,2026-07-16,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2751.97,Bank Account
+TXN01141,2026-07-17,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,217.82,Bank Account
+TXN01792,2026-07-17,Transport,Metro,Metro - transport purchase,Debit Card,703.33,Bank Account
+TXN00517,2026-07-17,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Credit Card,3500.0,Bank Account
+TXN00904,2026-07-19,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,2834.59,Credit Card
+TXN00375,2026-07-20,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,301.95,Bank Account
+TXN01324,2026-07-20,Dining,Food Street,Food Street - dining purchase,UPI,246.67,Bank Account
+TXN01004,2026-07-20,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,635.11,Cash Wallet
+TXN01752,2026-07-21,Transport,Ride App,Ride App - transport purchase,Credit Card,353.44,Credit Card
+TXN01375,2026-07-21,Entertainment,Cinema,Cinema - entertainment purchase,UPI,1039.2,Bank Account
+TXN00035,2026-07-21,Health,Pharmacy,Pharmacy - health purchase,UPI,146.41,Credit Card
+TXN01606,2026-07-22,Groceries,Green Basket,Green Basket - groceries purchase,UPI,975.85,Bank Account
+TXN01692,2026-07-22,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,764.75,Bank Account
+TXN00565,2026-07-22,Shopping,Department Store,Department Store - shopping purchase,UPI,2031.66,Credit Card
+TXN00362,2026-07-23,Transport,Bus Pass,Bus Pass - transport purchase,UPI,453.48,Bank Account
+TXN00358,2026-07-23,Health,Clinic,Clinic - health purchase,UPI,168.76,Bank Account
+TXN01389,2026-07-23,Dining,Cafe Corner,Cafe Corner - dining purchase,Net Banking,327.6,Credit Card
+TXN00048,2026-07-24,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,594.07,Bank Account
+TXN00389,2026-07-24,Housing,Monthly Rent,Monthly Rent - housing purchase,Debit Card,7063.83,Bank Account
+TXN00364,2026-07-25,Education,Book Store,Book Store - education purchase,UPI,3182.36,Cash Wallet
+TXN00579,2026-07-25,Housing,Maintenance,Maintenance - housing purchase,UPI,7930.07,Bank Account
+TXN01304,2026-07-26,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,422.06,Cash Wallet
+TXN00304,2026-07-26,Shopping,Online Store,Online Store - shopping purchase,UPI,3557.0,Credit Card
+TXN01632,2026-07-27,Shopping,Department Store,Department Store - shopping purchase,Net Banking,2872.96,Credit Card
+TXN00828,2026-07-27,Entertainment,Cinema,Cinema - entertainment purchase,Debit Card,1800.0,Bank Account
+TXN01557,2026-07-27,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2206.01,Bank Account
+TXN01471,2026-07-27,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,6227.92,Credit Card
+TXN00095,2026-07-27,Education,Online Course,Online Course - education purchase,Debit Card,7000.0,Bank Account
+TXN01384,2026-07-27,Shopping,Department Store,Department Store - shopping purchase,Credit Card,613.68,Cash Wallet
+TXN00740,2026-07-28,Shopping,Department Store,Department Store - shopping purchase,UPI,5408.4,Bank Account
+TXN00179,2026-07-29,Shopping,Online Store,Online Store - shopping purchase,Debit Card,1557.87,Bank Account
+TXN01037,2026-07-30,Housing,Home Supplies,Home Supplies - housing purchase,UPI,12395.55,Credit Card
+TXN01315,2026-07-30,Education,Book Store,Book Store - education purchase,Credit Card,4309.22,Bank Account
+TXN00592,2026-07-30,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1380.14,Bank Account
+TXN00220,2026-07-30,Entertainment,Game Store,Game Store - entertainment purchase,UPI,1540.09,Cash Wallet
+TXN01428,2026-07-30,Dining,Food Street,Food Street - dining purchase,Net Banking,1400.0,Cash Wallet
+TXN01732,2026-07-31,Housing,Maintenance,Maintenance - housing purchase,Debit Card,15690.46,Bank Account
+TXN01206,2026-07-31,Shopping,Clothing Shop,Clothing Shop - shopping purchase,Debit Card,1262.82,Bank Account
+TXN00067,2026-08-01,Travel,Hotel,Hotel - travel purchase,UPI,9757.54,Bank Account
+TXN00345,2026-08-01,Transport,Fuel Station,Fuel Station - transport purchase,UPI,322.06,Cash Wallet
+TXN01108,2026-08-02,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,578.24,Credit Card
+TXN01390,2026-08-03,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,1038.6,Bank Account
+TXN01287,2026-08-03,Health,Pharmacy,Pharmacy - health purchase,Cash,966.35,Credit Card
+TXN00202,2026-08-03,Transport,Fuel Station,Fuel Station - transport purchase,UPI,269.3,Credit Card
+TXN01154,2026-08-04,Entertainment,Concert,Concert - entertainment purchase,Cash,682.05,Credit Card
+TXN01569,2026-08-04,Utilities,Water Bill,Water Bill - utilities purchase,Credit Card,1481.32,Credit Card
+TXN00840,2026-08-04,Health,Clinic,Clinic - health purchase,UPI,602.99,Bank Account
+TXN00843,2026-08-04,Groceries,Local Market,Local Market - groceries purchase,Cash,1417.49,Credit Card
+TXN00943,2026-08-06,Groceries,Daily Needs,Daily Needs - groceries purchase,Cash,405.9,Bank Account
+TXN01708,2026-08-06,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,620.31,Bank Account
+TXN00529,2026-08-07,Health,Clinic,Clinic - health purchase,UPI,784.02,Credit Card
+TXN01507,2026-08-07,Utilities,Electricity Board,Electricity Board - utilities purchase,Debit Card,3133.5,Credit Card
+TXN01354,2026-08-07,Utilities,Water Bill,Water Bill - utilities purchase,Cash,1793.92,Bank Account
+TXN00324,2026-08-08,Shopping,Department Store,Department Store - shopping purchase,UPI,5405.35,Bank Account
+TXN00642,2026-08-08,Dining,Cafe Corner,Cafe Corner - dining purchase,Cash,1025.95,Credit Card
+TXN00804,2026-08-09,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,2318.36,Bank Account
+TXN00153,2026-08-09,Dining,Quick Bites,Quick Bites - dining purchase,UPI,755.77,Credit Card
+TXN01170,2026-08-09,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,8829.77,Bank Account
+TXN01103,2026-08-10,Travel,Hotel,Hotel - travel purchase,UPI,13954.46,Credit Card
+TXN01530,2026-08-10,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,6500.0,Bank Account
+TXN01564,2026-08-10,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1952.0,Bank Account
+TXN01705,2026-08-10,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1703.59,Bank Account
+TXN00669,2026-08-10,Housing,Maintenance,Maintenance - housing purchase,Credit Card,7777.63,Bank Account
+TXN00530,2026-08-11,Housing,Maintenance,Maintenance - housing purchase,UPI,7559.38,Bank Account
+TXN01006,2026-08-11,Housing,Monthly Rent,Monthly Rent - housing purchase,UPI,7701.18,Cash Wallet
+TXN00969,2026-08-11,Housing,Maintenance,Maintenance - housing purchase,UPI,15989.24,Cash Wallet
+TXN01081,2026-08-11,Entertainment,Concert,Concert - entertainment purchase,UPI,438.21,Credit Card
+TXN00715,2026-08-11,Entertainment,Cinema,Cinema - entertainment purchase,Debit Card,129.34,Bank Account
+TXN00733,2026-08-11,Shopping,Online Store,Online Store - shopping purchase,UPI,1726.35,Bank Account
+TXN00061,2026-08-12,Utilities,Electricity Board,Electricity Board - utilities purchase,Credit Card,2712.39,Bank Account
+TXN01262,2026-08-13,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,443.1,Credit Card
+TXN01623,2026-08-13,Transport,Bus Pass,Bus Pass - transport purchase,Debit Card,135.95,Bank Account
+TXN00527,2026-08-13,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,555.57,Credit Card
+TXN01679,2026-08-13,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,1154.88,Bank Account
+TXN00452,2026-08-14,Entertainment,Game Store,Game Store - entertainment purchase,UPI,681.12,Bank Account
+TXN00264,2026-08-14,Groceries,Local Market,Local Market - groceries purchase,UPI,632.21,Bank Account
+TXN00577,2026-08-14,Housing,Home Supplies,Home Supplies - housing purchase,Net Banking,7174.03,Bank Account
+TXN00586,2026-08-14,Groceries,Green Basket,Green Basket - groceries purchase,UPI,730.53,Cash Wallet
+TXN01067,2026-08-14,Shopping,Online Store,Online Store - shopping purchase,Cash,1285.54,Bank Account
+TXN00024,2026-08-15,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1740.8,Bank Account
+TXN00438,2026-08-15,Utilities,Water Bill,Water Bill - utilities purchase,UPI,2108.51,Cash Wallet
+TXN00421,2026-08-15,Housing,Monthly Rent,,UPI,15538.63,Bank Account
+TXN00499,2026-08-15,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,603.49,Bank Account
+TXN00862,2026-08-15,Groceries,Local Market,Local Market - groceries purchase,Credit Card,1316.02,Bank Account
+TXN01182,2026-08-15,Dining,Quick Bites,Quick Bites - dining purchase,UPI,678.81,Bank Account
+TXN01516,2026-08-17,Dining ,Daily Needs,Daily Needs - groceries purchase,UPI,819.04,Cash Wallet
+TXN00722,2026-08-18,Housing,Home Supplies,Home Supplies - housing purchase,UPI,18000.0,Bank Account
+TXN01273,2026-08-18,Housing,Maintenance,Maintenance - housing purchase,Debit Card,8151.76,Cash Wallet
+TXN01143,2026-08-18,Shopping,Online Store,Online Store - shopping purchase,UPI,2198.63,Bank Account
+TXN01751,2026-08-18,Travel,Flight Booking,Flight Booking - travel purchase,UPI,3166.93,Bank Account
+TXN00693,2026-08-18,Education,Training Centre,Training Centre - education purchase,UPI,4555.82,Cash Wallet
+TXN00470,2026-08-19,Transport,Metro,Metro - transport purchase,Debit Card,900.0,Bank Account
+TXN01533,2026-08-19,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,1864.38,Bank Account
+TXN00491,2026-08-19,Education,Online Course,Online Course - education purchase,UPI,5989.33,Bank Account
+TXN01443,2026-08-20,Shopping,Online Store,Online Store - shopping purchase,UPI,2974.56,Cash Wallet
+TXN00409,2026-08-20,Groceries,Green Basket,Green Basket - groceries purchase,Credit Card,840.45,Credit Card
+TXN01766,2026-08-20,Health,Clinic,Clinic - health purchase,UPI,3384.05,Bank Account
+TXN00754,2026-08-21,Groceries,Daily Needs,Daily Needs - groceries purchase,Debit Card,534.9,Bank Account
+TXN00680,2026-08-21,Entertainment,Cinema,Cinema - entertainment purchase,UPI,657.27,Bank Account
+TXN00348,2026-08-21,Dining,Food Street,Food Street - dining purchase,UPI,552.29,Credit Card
+TXN00764,2026-08-21,Dining,Quick Bites,Quick Bites - dining purchase,Debit Card,409.18,Bank Account
+TXN00382,2026-08-21,Transport,Ride App,Ride App - transport purchase,UPI,108.17,Bank Account
+TXN00286,2026-08-22,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,782.49,Bank Account
+TXN00319,2026-08-22,Shopping,Online Store,Online Store - shopping purchase,Cash,1130.91,Bank Account
+TXN00181,2026-08-22,Dining,Food Street,Food Street - dining purchase,Credit Card,534.09,Bank Account
+TXN01447,2026-08-22,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,732.22,Credit Card
+TXN01689,2026-08-23,Housing,Monthly Rent,Monthly Rent - housing purchase,Credit Card,7619.13,Credit Card
+TXN00081,2026-08-23,Travel,Train Ticket,Train Ticket - travel purchase,UPI,4322.62,Bank Account
+TXN00936,2026-08-24,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,573.35,Credit Card
+TXN01109,2026-08-24,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,786.52,Bank Account
+TXN01681,2026-08-25,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1140.64,Bank Account
+TXN00926,2026-08-27,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,482.86,Bank Account
+TXN00694,2026-08-27,Transport,Bus Pass,Bus Pass - transport purchase,UPI,222.82,Bank Account
+TXN00949,2026-08-28,Dining ,Metro,Metro - transport purchase,Debit Card,480.38,Bank Account
+TXN00383,2026-08-28,Housing,Maintenance,,Credit Card,13938.28,Credit Card
+TXN00965,2026-08-29,Shopping,Electronics Store,Electronics Store - shopping purchase,Credit Card,4330.45,Bank Account
+TXN01727,2026-08-29,Utilities,Water Bill,Water Bill - utilities purchase,UPI,3500.0,Bank Account
+TXN00571,2026-08-29,Education,Book Store,Book Store - education purchase,UPI,1551.58,Cash Wallet
+TXN00640,2026-08-29,Housing,Home Supplies,Home Supplies - housing purchase,UPI,6456.73,Bank Account
+TXN00763,2026-08-29,Health,Pharmacy,Pharmacy - health purchase,UPI,3253.04,Bank Account
+TXN01421,2026-08-30,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Debit Card,1337.0,Credit Card
+TXN00776,2026-08-30,Education,Training Centre,Training Centre - education purchase,Credit Card,875.48,Credit Card
+TXN00671,2026-08-31,Transport,Bus Pass,Bus Pass - transport purchase,Cash,833.42,Credit Card
+TXN01295,2026-08-31,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,2039.12,Cash Wallet
+TXN00340,2026-08-31,Groceries,Fresh Mart,Fresh Mart - groceries purchase,UPI,1603.92,Bank Account
+TXN01269,2026-09-01,Transport,Ride App,Ride App - transport purchase,UPI,282.42,Bank Account
+TXN00293,2026-09-01,Entertainment,Concert,Concert - entertainment purchase,UPI,541.54,Bank Account
+TXN01440,2026-09-02,Groceries,Green Basket,Green Basket - groceries purchase,UPI,1278.63,Credit Card
+TXN01784,2026-09-02,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,UPI,1745.28,Bank Account
+TXN00448,2026-09-02,Transport,Fuel Station,Fuel Station - transport purchase,Debit Card,717.45,Bank Account
+TXN01054,2026-09-04,Travel,Travel Agency,Travel Agency - travel purchase,UPI,5637.35,Bank Account
+TXN00274,2026-09-04,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,1615.32,Cash Wallet
+TXN00515,2026-09-04,Groceries,Green Basket,Green Basket - groceries purchase,Debit Card,1381.64,Credit Card
+TXN01376,2026-09-04,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,1984.79,Credit Card
+TXN01083,2026-09-04,Entertainment,Cinema,Cinema - entertainment purchase,Cash,609.47,Credit Card
+TXN00684,2026-09-04,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,730.67,Bank Account
+TXN00649,2026-09-05,Transport,Metro,Metro - transport purchase,Net Banking,852.6,Credit Card
+TXN00683,2026-09-05,Transport,Ride App,Ride App - transport purchase,Net Banking,616.32,Credit Card
+TXN00195,2026-09-05,Utilities,Internet Provider,Internet Provider - utilities purchase,Debit Card,1893.11,Credit Card
+TXN00451,2026-09-05,Health,Clinic,Clinic - health purchase,UPI,1931.36,Credit Card
+TXN01448,2026-09-05,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1089.0,Bank Account
+TXN00999,2026-09-06,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Cash,298.03,Credit Card
+TXN01377,2026-09-06,Utilities,Water Bill,Water Bill - utilities purchase,Net Banking,1330.17,Credit Card
+TXN01223,2026-09-06,Dining,Food Street,Food Street - dining purchase,Cash,350.08,Bank Account
+TXN00200,2026-09-06,Groceries,Green Basket,Green Basket - groceries purchase,UPI,936.34,Bank Account
+TXN01700,2026-09-06,Travel,Train Ticket,Train Ticket - travel purchase,UPI,5512.52,Bank Account
+TXN00751,2026-09-06,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,1400.0,Bank Account
+TXN01369,2026-09-07,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,3486.94,Credit Card
+TXN00503,2026-09-07,Travel,Train Ticket,Train Ticket - travel purchase,Cash,5175.09,Bank Account
+TXN01243,2026-09-07,Health,Pharmacy,Pharmacy - health purchase,UPI,2438.22,Credit Card
+TXN01210,2026-09-07,Groceries,Daily Needs,Daily Needs - groceries purchase,Credit Card,1004.22,Bank Account
+TXN00853,2026-09-07,Entertainment,Game Store,Game Store - entertainment purchase,Debit Card,1057.24,Bank Account
+TXN00337,2026-09-07,Dining,Family Restaurant,Family Restaurant - dining purchase,Credit Card,716.37,Bank Account
+TXN00609,2026-09-09,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,301.04,Bank Account
+TXN00466,2026-09-09,Housing,Maintenance,Maintenance - housing purchase,UPI,12103.03,Bank Account
+TXN00861,2026-09-10,Transport,Ride App,Ride App - transport purchase,Cash,54.11,Bank Account
+TXN00064,2026-09-10,Groceries,Local Market,Local Market - groceries purchase,UPI,597.71,Bank Account
+TXN00797,2026-09-10,Dining,Food Street,Food Street - dining purchase,Debit Card,627.14,Cash Wallet
+TXN01567,2026-09-10,Entertainment,Concert,Concert - entertainment purchase,Credit Card,643.98,Credit Card
+TXN00208,2026-09-11,Transport,Ride App,Ride App - transport purchase,Credit Card,155.03,Bank Account
+TXN00417,2026-09-11,Utilities,Water Bill,Water Bill - utilities purchase,UPI,620.67,Credit Card
+TXN00355,2026-09-11,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,503.3,Bank Account
+TXN01226,2026-09-11,Transport,Bus Pass,Bus Pass - transport purchase,UPI,179.48,Bank Account
+TXN00046,2026-09-12,Dining,Family Restaurant,Family Restaurant - dining purchase,Cash,291.47,Bank Account
+TXN01233,2026-09-12,Travel,Hotel,Hotel - travel purchase,Cash,3633.11,Cash Wallet
+TXN00959,2026-09-12,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,817.66,Bank Account
+TXN00441,2026-09-13,Groceries,Local Market,Local Market - groceries purchase,Debit Card,791.63,Bank Account
+TXN00404,2026-09-13,Dining,Family Restaurant,Family Restaurant - dining purchase,UPI,468.47,Credit Card
+TXN00947,2026-09-14,Transport,Metro,Metro - transport purchase,UPI,109.98,Credit Card
+TXN01797,2026-09-15,Health,Diagnostic Centre,Diagnostic Centre - health purchase,Cash,1294.63,Bank Account
+TXN00012,2026-09-15,Entertainment,Streaming Service,Streaming Service - entertainment purchase,Debit Card,500.7,Credit Card
+TXN00325,2026-09-15,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,1220.68,Bank Account
+TXN01250,2026-09-16,Groceries,Daily Needs,Daily Needs - groceries purchase,UPI,671.1,Bank Account
+TXN01475,2026-09-16,Transport,Ride App,Ride App - transport purchase,UPI,508.9,Bank Account
+TXN01649,2026-09-16,Transport,Fuel Station,Fuel Station - transport purchase,UPI,580.44,Bank Account
+TXN01746,2026-09-17,Entertainment,Streaming Service,Streaming Service - entertainment purchase,UPI,1323.49,Bank Account
+TXN00594,2026-09-17,Health,Diagnostic Centre,Diagnostic Centre - health purchase,UPI,995.41,Bank Account
+TXN01381,2026-09-18,Transport,Fuel Station,Fuel Station - transport purchase,Cash,476.08,Bank Account
+TXN00914,2026-09-18,Dining,Cafe Corner,Cafe Corner - dining purchase,UPI,390.64,Credit Card
+TXN00894,2026-09-18,Shopping,Clothing Shop,Clothing Shop - shopping purchase,UPI,2715.63,Bank Account
+TXN00851,2026-09-18,Shopping,Online Store,Online Store - shopping purchase,UPI,1845.84,Bank Account
+TXN00141,2026-09-19,Groceries,Local Market,Local Market - groceries purchase,Debit Card,1738.78,Credit Card
+TXN01198,2026-09-19,Housing,Maintenance,Maintenance - housing purchase,Debit Card,14586.67,Bank Account
+TXN01707,2026-09-20,Utilities,Internet Provider,Internet Provider - utilities purchase,Credit Card,955.04,Bank Account
+TXN01393,2026-09-20,Utilities,Electricity Board,Electricity Board - utilities purchase,UPI,2330.82,Credit Card
+TXN01676,2026-09-20,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,275.19,Bank Account
+TXN01457,2026-09-21,Housing,Maintenance,Maintenance - housing purchase,Debit Card,10204.53,Bank Account
+TXN00555,2026-09-21,Transport,Metro,Metro - transport purchase,Net Banking,240.61,Credit Card
+TXN01246,2026-09-21,Education,Training Centre,Training Centre - education purchase,UPI,4263.01,Bank Account
+TXN01228,2026-09-21,Transport,Bus Pass,Bus Pass - transport purchase,UPI,481.65,Bank Account
+TXN01203,2026-09-21,Health,Pharmacy,Pharmacy - health purchase,Debit Card,1128.91,Cash Wallet
+TXN01570,2026-09-21,Transport,Ride App,Ride App - transport purchase,Debit Card,836.79,Bank Account
+TXN00772,2026-09-22,Utilities,Mobile Recharge,Mobile Recharge - utilities purchase,Debit Card,3500.0,Bank Account
+TXN01747,2026-09-23,Shopping,Electronics Store,Electronics Store - shopping purchase,UPI,6328.38,Credit Card
+TXN01082,2026-09-24,Transport,Fuel Station,Fuel Station - transport purchase,UPI,679.35,Bank Account
+TXN01088,2026-09-24,Shopping,Online Store,Online Store - shopping purchase,UPI,1833.82,Bank Account
+TXN00265,2026-09-24,Groceries,Local Market,Local Market - groceries purchase,Cash,405.55,Bank Account
+TXN01620,2026-09-25,Dining,Cafe Corner,Cafe Corner - dining purchase,Credit Card,867.44,Bank Account
+TXN00347,2026-09-25,Utilities,Internet Provider,Internet Provider - utilities purchase,UPI,1212.99,Bank Account
+TXN00356,2026-09-26,Entertainment,Game Store,Game Store - entertainment purchase,Credit Card,1065.88,Credit Card
+TXN00145,2026-09-26,Groceries,Local Market,Local Market - groceries purchase,UPI,1180.37,Bank Account
+TXN01626,2026-09-26,Groceries,Fresh Mart,Fresh Mart - groceries purchase,Cash,1969.47,Bank Account
+TXN01422,2026-09-27,Groceries,Local Market,Local Market - groceries purchase,Net Banking,1174.58,Bank Account
+TXN00511,2026-09-27,Entertainment,Concert,Concert - entertainment purchase,Credit Card,998.13,Bank Account
+TXN01559,2026-09-27,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,411.92,Bank Account
+TXN00161,2026-09-28,Travel,Travel Agency,Travel Agency - travel purchase,UPI,2692.49,Cash Wallet
+TXN00691,2026-09-28,Dining,Food Street,Food Street - dining purchase,UPI,592.84,Bank Account
+TXN01117,2026-09-28,Dining,Family Restaurant,Family Restaurant - dining purchase,Debit Card,370.07,Bank Account
+TXN01056,2026-09-28,Travel,Flight Booking,Flight Booking - travel purchase,UPI,5967.39,Bank Account
+TXN01346,2026-09-29,Dining,Quick Bites,Quick Bites - dining purchase,Credit Card,667.25,Cash Wallet
+TXN00810,2026-09-29,Dining,Cafe Corner,Cafe Corner - dining purchase,Debit Card,490.6,Bank Account
+TXN00401,2026-09-29,Dining,Quick Bites,Quick Bites - dining purchase,UPI,684.75,Bank Account
+TXN01169,2026-09-29,Dining,Food Street,Food Street - dining purchase,Cash,1166.65,Bank Account
+TXN01336,2026-09-30,Entertainment,Cinema,Cinema - entertainment purchase,UPI,1800.0,Bank Account
+TXN00820,2026-09-30,Entertainment,Cinema,Cinema - entertainment purchase,Debit Card,1335.94,Bank Account
